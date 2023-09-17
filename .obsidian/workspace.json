@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "d9edf51c34058177",
+    "type": "split",
+    "children": [
+      {
+        "id": "a028cf4e1b6c202f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a7f69ee7d89208",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5df45bf11780f6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formules/Indice de réfraction.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "959a89726e4f4c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formules/Loi de Snell-Descartes.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f6a438ac2c1a26d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formules/Indice de réfraction.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7565a818389ee8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f377352f681315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e89ab93f9d885a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8f9996c0f758b3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab77efc39b5edde9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd4d7e111b19953d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ac4317dbf811aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d40e26eda4b2bc9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33c7d5de35993804",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1af1e76d653526b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd9b8162aa333a4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88e89ab93f9d885a",
+  "lastOpenFiles": [
+    "Formules/Loi de Snell-Descartes.md",
+    "Formules/Indice de réfraction.md",
+    "Formules/Energie d'un photon.md",
+    "USI.md",
+    "Docs.md",
+    "Formules"
+  ]
+}
