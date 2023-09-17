@@ -11,14 +11,7 @@
       "query": "tag:#Chap1_Optique  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 5405920
       }
     }
   ],
@@ -32,6 +25,6 @@
   "repelStrength": 9.375,
   "linkStrength": 0,
   "linkDistance": 275,
-  "scale": 0.508761885579259,
+  "scale": 0.7132754626224428,
   "close": false
 }

@@ -2,5 +2,8 @@
   "obsidian-git",
   "obsidian-admonition",
   "quick-latex",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "tag-wrangler",
+  "obsidian-tagfolder",
+  "obsidian-plugin-tagged-documents-viewer"
 ]
