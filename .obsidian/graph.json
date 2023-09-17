@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Chap1_Optique  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 9.375,
   "linkStrength": 0,
   "linkDistance": 275,
-  "scale": 0.7132754626224423,
-  "close": true
+  "scale": 0.508761885579259,
+  "close": false
 }
