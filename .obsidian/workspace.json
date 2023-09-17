@@ -4,92 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "e74cc4f86ee8f71f",
+        "id": "c0bc5c8b5dec0200",
         "type": "split",
         "children": [
           {
-            "id": "c0bc5c8b5dec0200",
-            "type": "split",
-            "dimension": 60.76923076923076,
-            "children": [
-              {
-                "id": "a028cf4e1b6c202f",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "94d867b21f56999f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "0e2146756df476d2",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1822b4d4ee1639e9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "tagfolder-view-scroll",
-                      "state": {
-                        "files": [
-                          {
-                            "path": "Formules/Cone d'acceptance.md",
-                            "content": "___\n#Chap1_Optique ",
-                            "title": "Cone d'acceptance"
-                          },
-                          {
-                            "path": "Formules/Energie d'un photon.md",
-                            "content": "\n## $$\\boxed{E = h * \\nu}$$\n\n$E = \\text{J ou eV}$ #Joule #eV\n\n$h = 6.63.10^{-34} J\\cdot s$ #C_de_plank\n\n$\\nu = \\text{fréquence du photon en Hz}$ #Fréquence\n\n## $$\\boxed{E = \\frac{h \\cdot c}{\\lambda}}$$\n\n$h = 6.63.10^{-34} J\\cdot s$ #C_de_plank\n\n$c = 3.00\\cdot 10^{8}  m\\cdot s^{-1}$ #C_vitesse_de_la_lumière\n\n$\\lambda = \\text{Longueur d'onde du photon en m}$ #Mètre\n___\n#Chap1_Optique",
-                            "title": "Energie d'un photon"
-                          },
-                          {
-                            "path": "Formules/Indice de réfraction.md",
-                            "content": "#indice_de_réfraction \n\n## $$\\boxed{n = \\frac{c}{v}}$$\n\n$c = 3.00\\cdot 10^{8}\\; m\\cdot s^{-1}\\; \\text{(vitesse de la lumière dans le vide)}$ #C_vitesse_de_la_lumière \n\n$v = \\text{vitesse de la lumière dans ce milieu}$ #angle\n___\n#Chap1_Optique ",
-                            "title": "Indice de réfraction"
-                          },
-                          {
-                            "path": "Formules/Loi de Snell-Descartes.md",
-                            "content": "## $$\\boxed{n_{1} \\cdot sin(i_{1}) = n_{2} \\cdot sin(i_{2})}$$\n\n$n_{1}\\; / \\;n_2 = \\text{indice de réfraction du milieu n}$ #indice_de_réfraction\n\n$i_{1}\\; / \\;i_2 = \\text{angle d'incidence du rayon i}$ #angle\n___\n#Chap1_Optique ",
-                            "title": "Loi de Snell-Descartes"
-                          }
-                        ],
-                        "title": "",
-                        "tagPath": "Chap1_Optique"
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "c9f620637b7c0bed",
+            "id": "a028cf4e1b6c202f",
             "type": "tabs",
-            "dimension": 39.23076923076923,
+            "dimension": 85.84010840108401,
             "children": [
               {
-                "id": "959a89726e4f4c51",
+                "id": "94d867b21f56999f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "USI.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "backlinks": true,
-                    "source": true
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0e2146756df476d2",
+            "type": "tabs",
+            "dimension": 14.159891598915985,
+            "children": [
+              {
+                "id": "1822b4d4ee1639e9",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view-scroll",
+                  "state": {
+                    "files": [
+                      {
+                        "path": "Formules/Cone d'acceptance.md",
+                        "content": "___\n#Chap1_Optique ",
+                        "title": "Cone d'acceptance"
+                      },
+                      {
+                        "path": "Formules/Energie d'un photon.md",
+                        "content": "\n## $$\\boxed{E = h * \\nu}$$\n\n$E = \\text{J ou eV}$ #Joule #eV\n\n$h = 6.63.10^{-34} J\\cdot s$ #C_de_plank\n\n$\\nu = \\text{fréquence du photon en Hz}$ #Fréquence\n\n## $$\\boxed{E = \\frac{h \\cdot c}{\\lambda}}$$\n\n$h = 6.63.10^{-34} J\\cdot s$ #C_de_plank\n\n$c = 3.00\\cdot 10^{8}  m\\cdot s^{-1}$ #C_vitesse_de_la_lumière\n\n$\\lambda = \\text{Longueur d'onde du photon en m}$ #Mètre\n___\n#Chap1_Optique",
+                        "title": "Energie d'un photon"
+                      },
+                      {
+                        "path": "Formules/Indice de réfraction.md",
+                        "content": "#indice_de_réfraction \n\n## $$\\boxed{n = \\frac{c}{v}}$$\n\n$c = 3.00\\cdot 10^{8}\\; m\\cdot s^{-1}\\; \\text{(vitesse de la lumière dans le vide)}$ #C_vitesse_de_la_lumière \n\n$v = \\text{vitesse de la lumière dans ce milieu}$ #angle\n___\n#Chap1_Optique ",
+                        "title": "Indice de réfraction"
+                      },
+                      {
+                        "path": "Formules/Loi de Snell-Descartes.md",
+                        "content": "## $$\\boxed{n_{1} \\cdot sin(i_{1}) = n_{2} \\cdot sin(i_{2})}$$\n\n$n_{1}\\; / \\;n_2 = \\text{indice de réfraction du milieu n}$ #indice_de_réfraction\n\n$i_{1}\\; / \\;i_2 = \\text{angle d'incidence du rayon i}$ #angle\n___\n#Chap1_Optique ",
+                        "title": "Loi de Snell-Descartes"
+                      }
+                    ],
+                    "title": "",
+                    "tagPath": "Chap1_Optique"
                   }
                 }
               }
             ]
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -118,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Joule",
+                "query": "tag:#eV",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "USI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "USI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "USI.md"
+              }
             }
           },
           {
@@ -231,9 +214,9 @@
   },
   "active": "94d867b21f56999f",
   "lastOpenFiles": [
+    "Formules/Energie d'un photon.md",
     "Formules/Cone d'acceptance.md",
     "USI.md",
-    "Formules/Energie d'un photon.md",
     "Formules/Loi de Snell-Descartes.md",
     "Formules/Indice de réfraction.md",
     "Untitled.md",
