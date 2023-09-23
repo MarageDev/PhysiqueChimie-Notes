@@ -16,12 +16,14 @@
                 "id": "d42df840aabceb50",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "Formules/Réflexion totale.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
+                    "file": "Sans titre.canvas",
+                    "viewState": {
+                      "x": 255.57107587417295,
+                      "y": 401.0106820816877,
+                      "zoom": -1.3902695941299017
+                    }
                   }
                 }
               }
@@ -71,7 +73,7 @@
                       },
                       {
                         "path": "Formules/Réflexion totale.md",
-                        "content": "#Reflexion_totale\n## $$\\boxed{\\text{Conditions pour avoir Réflexion Totale ( RT ) : }\\;\n\\begin{cases}\n    RT \\iff i_{1} &> \\arcsin \\frac{n_{2}}{n_{1}} \\\\ n_{0}\\sin (\\theta_{0}) &= n_{1}\\sin (\\theta_{1}) \\\\ \\theta_{1}=\\frac{\\pi}{2}-i_{1}\n\\end{cases}\n$$\n\n>## $$\\boxed{\n\\begin{align*}\\\\\nRT \\iff && i_{1} < i_{lim} \\\\ && n_{2}<n_{1}\n\\end{align*}}\n$$\nPour avoir réflexion totale, il faut que l'indice du milieu vers lequel le rayon se dirige soit plus petit que celui dans lequel il était et qu'il arrive avec un rayon d'incidence plus grand que $i_{lim}$ \n\n#Angle_I_limite \n___\n#Chap1_Optique ",
+                        "content": "#Reflexion_totale\n## $$ \\text{Conditions pour avoir Réflexion Totale ( RT ) : }\\;\\boxed{\\begin{cases}i_{1}< i_{lim}\\\\n_{2}<n_{1}\\end{cases}}$$\nPour avoir réflexion totale, il faut que l'indice du milieu vers lequel le rayon se dirige soit plus petit que celui dans lequel il était et qu'il arrive avec un rayon d'incidence plus grand que $i_{lim}$ \n\n#Angle_I_limite \n___\n#Chap1_Optique ",
                         "title": "Réflexion totale"
                       }
                     ],
@@ -118,8 +120,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Réflexion totale.md",
+                "file": "Sans titre.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Réflexion totale.md",
+                "file": "Sans titre.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Réflexion totale.md"
+                "file": "Sans titre.canvas"
               }
             }
           },
@@ -267,13 +268,13 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
+    "Formules/Réflexion totale.md",
     "Formules/Cone d'acceptance.md",
     "Formules/Loi de Snell-Descartes.md",
     "Formules/Grandissement.md",
     "Formules/Formule de conjugaison (optique).md",
     "Formules/Energie d'un photon.md",
     "Formules/Dispersion intermodale.md",
-    "Formules/Réflexion totale.md",
     "Sans titre.canvas",
     "Formules/Relation de Descartes (optique).md",
     "USI.md",

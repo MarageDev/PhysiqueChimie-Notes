@@ -1,17 +1,24 @@
 {
 	"nodes":[
-		{"id":"eea5be0adc0a7b07","type":"text","text":"Optique","x":-60,"y":0,"width":250,"height":60},
-		{"id":"57de860be0817f99","type":"file","file":"Formules/Indice de réfraction.md","x":-400,"y":240,"width":400,"height":400},
-		{"id":"c2f970b3d0b8cc62","type":"file","file":"Formules/Angle I limite.md","x":-400,"y":720,"width":400,"height":400},
-		{"id":"3881ff0d5ef1ca95","type":"file","file":"Formules/Loi de Snell-Descartes.md","x":400,"y":240,"width":400,"height":400},
-		{"id":"ecccf9294086caa7","x":400,"y":720,"width":400,"height":400,"type":"file","file":"Formules/Réflexion totale.md"}
+		{"id":"ecccf9294086caa7","type":"file","file":"Formules/Réflexion totale.md","x":400,"y":720,"width":720,"height":400},
+		{"id":"c2f970b3d0b8cc62","type":"file","file":"Formules/Angle I limite.md","x":-430,"y":720,"width":500,"height":400},
+		{"id":"99608772afe475e5","x":-960,"y":240,"width":400,"height":400,"type":"file","file":"Formules/Energie d'un photon.md"},
+		{"id":"8c2c04cd30db3ff0","x":-949,"y":829,"width":400,"height":400,"type":"file","file":"Formules/Longueur d'onde.md"},
+		{"id":"81bcc7dd597b63aa","x":560,"y":1280,"width":400,"height":400,"type":"file","file":"Formules/Cone d'acceptance.md"},
+		{"id":"3881ff0d5ef1ca95","type":"file","file":"Formules/Loi de Snell-Descartes.md","x":1320,"y":720,"width":400,"height":400},
+		{"id":"57de860be0817f99","type":"file","file":"Formules/Indice de réfraction.md","x":540,"y":160,"width":440,"height":400},
+		{"id":"eea5be0adc0a7b07","type":"text","text":"Optique","x":-120,"y":-80,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7f78800c4f7f39fe","fromNode":"eea5be0adc0a7b07","fromSide":"bottom","toNode":"57de860be0817f99","toSide":"top"},
 		{"id":"688f453e5f095d81","fromNode":"eea5be0adc0a7b07","fromSide":"bottom","toNode":"3881ff0d5ef1ca95","toSide":"top"},
 		{"id":"61a31a0c35c9db21","fromNode":"57de860be0817f99","fromSide":"bottom","toNode":"c2f970b3d0b8cc62","toSide":"top"},
-		{"id":"45160b54c4c1fded","fromNode":"57de860be0817f99","fromSide":"right","toNode":"3881ff0d5ef1ca95","toSide":"left"},
 		{"id":"33095257d2ccf64f","fromNode":"c2f970b3d0b8cc62","fromSide":"right","toNode":"ecccf9294086caa7","toSide":"left"},
-		{"id":"bb0f3db67c36b976","fromNode":"57de860be0817f99","fromSide":"right","toNode":"ecccf9294086caa7","toSide":"left"}
+		{"id":"0f30a5fe2a6da230","fromNode":"eea5be0adc0a7b07","fromSide":"bottom","toNode":"99608772afe475e5","toSide":"top"},
+		{"id":"38dd8dc22e042ebb","fromNode":"eea5be0adc0a7b07","fromSide":"bottom","toNode":"8c2c04cd30db3ff0","toSide":"top"},
+		{"id":"7acf37e6b6251cf0","fromNode":"3881ff0d5ef1ca95","fromSide":"bottom","toNode":"81bcc7dd597b63aa","toSide":"top"},
+		{"id":"184a100ff1ecbb29","fromNode":"ecccf9294086caa7","fromSide":"bottom","toNode":"81bcc7dd597b63aa","toSide":"top"},
+		{"id":"c8b40675c3a0df16","fromNode":"57de860be0817f99","fromSide":"bottom","toNode":"ecccf9294086caa7","toSide":"top"},
+		{"id":"0383b062b0f9d323","fromNode":"57de860be0817f99","fromSide":"bottom","toNode":"3881ff0d5ef1ca95","toSide":"top"}
 	]
 }
