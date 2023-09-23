@@ -95,8 +95,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Cone d'acceptance.md",
-                    "mode": "preview",
+                    "file": "Formules/Grandissement.md",
+                    "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Cone d'acceptance.md",
+                "file": "Formules/Grandissement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Cone d'acceptance.md",
+                "file": "Formules/Grandissement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Cone d'acceptance.md"
+                "file": "Formules/Grandissement.md"
               }
             }
           },
@@ -251,10 +251,11 @@
   },
   "active": "eab6604a5e3ddd83",
   "lastOpenFiles": [
+    "Formules/Cone d'acceptance.md",
+    "Formules/Grandissement.md",
     "USI.md",
     "Formules/Dispersion intermodale.md",
     "Formules/Energie d'un photon.md",
-    "Formules/Cone d'acceptance.md",
     "Formules/Angle I limite.md",
     "Formules/Réflexion totale.md",
     "Formules/Loi de Snell-Descartes.md",
