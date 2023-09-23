@@ -26,7 +26,14 @@ $$\begin{align*} \\\\
 Si $\theta_{0} < \theta_{0,lim}$ RT en I, rayon guidé
 Si $\theta_{0} > \theta_{0,lim}$ RT transmis dans le milieu
 $$(2) : $$
-$$ \sin(\theta_{1}) = \frac{n_{0}}{n_{1}}\sin(\theta_{0}) $$
+$$ \linenumbers \begin{align}
+
+
+\sin(\theta_{1}) & = \frac{n_{0}}{n_{1}}\sin(\theta_{0})  \\
+\sin(\theta_{0}) &= \frac{n_{0}}{n_{1}} \;\sin(\theta_{1})
+\end{align}
+\;\;\;\;
+\text{avec } \sin(\theta_{1}) = \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right)$$
 
 $$(3) : $$ 
 $$\begin{align}
