@@ -4,135 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fd3e8297c822e286",
-        "type": "split",
+        "id": "24278c6bf9e2461a",
+        "type": "tabs",
         "children": [
           {
-            "id": "a028cf4e1b6c202f",
-            "type": "tabs",
-            "dimension": 64.90384615384616,
-            "children": [
-              {
-                "id": "94d867b21f56999f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "USI.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e3ad9ac8a6e6b386",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Longueur d'onde.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f7556fe9f534937b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Relation de Descartes (optique).md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
+            "id": "d42df840aabceb50",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sans titre.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "06d74ee70bef792d",
-            "type": "tabs",
-            "dimension": 35.09615384615385,
-            "children": [
-              {
-                "id": "1822b4d4ee1639e9",
-                "type": "leaf",
-                "state": {
-                  "type": "tagfolder-view-scroll",
-                  "state": {
-                    "files": [
-                      {
-                        "path": "Formules/Angle I limite.md",
-                        "content": "#Angle_I_limite\n\n## $$\\boxed{i_{lim}= \\arcsin( \\frac{n_{1}}{n_{2}}) }$$\n\n$i_{lim}$ #angle\n\n$n_{1}/n_{2} : \\text{indice optique du milieu initial } n_{1} \\text{ et du milieu d'arrivée } n_{2}$ #indice_de_réfraction \n___\n#Chap1_Optique ",
-                        "title": "Angle I limite"
-                      },
-                      {
-                        "path": "Formules/Cone d'acceptance.md",
-                        "content": "#Demonstration\n$$\\text{Conditions initiales }\\;\n\\boxed{\n\\begin{cases}\n    RT \\iff i_{1} &> \\arcsin \\frac{n_{2}}{n_{1}} \\\\ n_{0}\\sin (\\theta_{0}) &= n_{1}\\sin (\\theta_{1}) \\\\ \\theta_{1}=\\frac{\\pi}{2}-i_{1}\n\\end{cases}}$$\n$$\\begin{align*} \\\\\\\\\n\n\\theta_{1} &< \\frac{\\pi}{2}-\\arcsin \\frac{n_{2}}{n_{1}}\\\\\n\\sin(\\theta_{1}) &< \\sin\\left( \\frac{\\pi}{2} - \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) \\tag*{* {(1) Formule : }$\\sin\\left( \\frac{\\pi}{2}-\\alpha \\right) = \\cos(\\alpha)$}\\\\\\\\\n\n\\sin(\\theta_{1}) &< \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) &\\tag*{{* (2) Parce que : }$\\sin(\\theta_{1}) = \\frac{n_{0}}{n_{1}}\\sin(\\theta_{0})$}\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{0}} \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) &\\tag*{{* (3) }$\\cos(x) = \\sqrt{ 1-\\sin{^2}(x) }$} \\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{2}} \\cdot \\sqrt{ 1-\\sin^{2}\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) }\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{0}} \\cdot \\sqrt{ 1-\\left( \\frac{n_{2}}{n_{1}} \\right)^2 }\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{1}{n_{0}} \\cdot \\sqrt{ n_{1}{^2}-n_{2}{^2} }\\\\\\\\\n\n\\theta_{0} &< \\arcsin\\left( \\frac{\\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \\right)\\\\\\\\\n\n&= \\theta_{0,lim}\n\\end{align*}$$\n$$\\boxed{\\theta_{0,lim} = \\arcsin\\left( \\frac{\\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \\right)}$$\n\nSi $\\theta_{0} < \\theta_{0,lim}$ RT en I, rayon guidé\nSi $\\theta_{0} > \\theta_{0,lim}$ RT transmis dans le milieu\n___\n$(2) :$\n$$\\begin{align}\n\\sin(\\theta_{1}) & = \\frac{n_{0}}{n_{1}}\\sin(\\theta_{0})  \\\\\n\\sin(\\theta_{0}) &= \\frac{n_{0}}{n_{1}} \\;\\sin(\\theta_{1})\n\\end{align}\n\\;\\;\\;\\;\n\\text{avec } \\sin(\\theta_{1}) = \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right)$$\n___\n$(3) :$\n$$\\begin{align}\n\\sin^{2}(x)+\\cos^{2}(x) & = 1 \\\\\n\\cos^{2}(x) &= 1-\\sin^{2}(x) \\\\\n\\cos(x) & = \\sqrt{ 1-\\sin^{2}(x) }\n\n\\end{align}$$\n___\n#Chap1_Optique ",
-                        "title": "Cone d'acceptance"
-                      },
-                      {
-                        "path": "Formules/Energie d'un photon.md",
-                        "content": "\n## $$\\boxed{E = h * \\nu}$$\n\n$E = \\text{J ou eV}$ #Joule #eV\n\n$h = 6.63.10^{-34} J\\cdot s$ #C_de_plank\n\n$\\nu = \\text{fréquence du photon en Hz}$ #Fréquence\n\n## $$\\boxed{E = \\frac{h \\cdot c}{\\lambda}}$$\n\n$h = 6.63.10^{-34} J\\cdot s$ #C_de_plank\n\n$c = 3.00\\cdot 10^{8}  m\\cdot s^{-1}$ #C_vitesse_de_la_lumière\n\n$\\lambda = \\text{Longueur d'onde du photon en m}$ #Mètre\n___\n#Chap1_Optique",
-                        "title": "Energie d'un photon"
-                      },
-                      {
-                        "path": "Formules/Indice de réfraction.md",
-                        "content": "#indice_de_réfraction \n\n## $$\\boxed{n = \\frac{c}{v}}$$\n\n$c = 3.00\\cdot 10^{8}\\; m\\cdot s^{-1}\\; \\text{(vitesse de la lumière dans le vide)}$ #C_vitesse_de_la_lumière \n\n$v = \\text{vitesse de la lumière dans ce milieu}$ #angle\n___\n#Chap1_Optique ",
-                        "title": "Indice de réfraction"
-                      },
-                      {
-                        "path": "Formules/Loi de Snell-Descartes.md",
-                        "content": "## $$\\boxed{n_{1} \\cdot sin(i_{1}) = n_{2} \\cdot sin(i_{2})}$$\n\n$n_{1}\\; / \\;n_2 = \\text{indice de réfraction du milieu n}$ #indice_de_réfraction\n\n$i_{1}\\; / \\;i_2 = \\text{angle d'incidence du rayon i}$ #angle\n___\n#Chap1_Optique ",
-                        "title": "Loi de Snell-Descartes"
-                      },
-                      {
-                        "path": "Formules/Longueur d'onde.md",
-                        "content": "## $$\\boxed{\\lambda = \\frac{c}{\\nu} }$$\n\n$\\lambda \\text{ en m}$ #Joule #eV\n\n$c = \\text{vitesse de la lumière }$ #C_vitesse_de_la_lumière \n\n$\\nu = \\text{fréquence du photon en Hz}$ #Fréquence\n\n___\n#Chap1_Optique ",
-                        "title": "Longueur d'onde"
-                      }
-                    ],
-                    "title": "",
-                    "tagPath": "Chap1_Optique"
-                  }
-                }
-              },
-              {
-                "id": "eab6604a5e3ddd83",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Relation de Descartes (optique).md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "871637f2dfee0386",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "USI.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Relation de Descartes (optique).md",
+                "file": "Formules/Indice de réfraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Relation de Descartes (optique).md",
+                "file": "Formules/Indice de réfraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Relation de Descartes (optique).md"
+                "file": "Formules/Indice de réfraction.md"
               }
             }
           },
@@ -275,17 +165,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f7556fe9f534937b",
+  "active": "d42df840aabceb50",
   "lastOpenFiles": [
-    "Formules/Réflexion totale.md",
-    "Formules/Longueur d'onde.md",
-    "Formules/Grandissement.md",
+    "Sans titre.canvas",
+    "USI.md",
     "Formules/Relation de Descartes (optique).md",
+    "Formules/Longueur d'onde.md",
+    "Formules/Angle I limite.md",
+    "Formules/Réflexion totale.md",
+    "Formules/Grandissement.md",
     "Formules/Formule de conjugaison (optique).md",
     "Formules/Sans titre.md",
     "Formules/Vergence d'une lentille.md",
     "Formules/Cone d'acceptance.md",
-    "USI.md",
     "Formules/Loi de Snell-Descartes.md",
     "Images/Pasted image 20230923153517.png",
     "Images",
@@ -296,7 +188,6 @@
     "Images/Pasted image 20230923155144.png",
     "Images/Pasted image 20230923155122.png",
     "Images/Pasted image 20230923154248.png",
-    "Formules/Angle I limite.md",
     "Pasted image 20230923153354.png",
     "Pasted image 20230923153413.png",
     "Pasted image 20230923153459.png",

@@ -4,6 +4,11 @@ Par rapport au centre optique
 
 donc 
 
-#Grandissement 
+# $$\boxed{\gamma =\; \frac{\overline{A'B'}}{\overline{AB}} \;=\; \frac{\overline{OA'}}{\overline{OA}}}$$ 
+$\gamma = \text{grandissement }$#Grandissement 
 
-# $$\boxed{\gamma =\; \frac{\overline{A'B'}}{\overline{AB}} \;= \; \frac{\overline{OA'}}{f'}=\frac{f'}{FA}}$$
+et
+# $$\boxed{\overline{OA'} =\; \frac{f'\cdot\overline{OA}}{f'\cdot\overline{OA}}}$$ 
+
+___
+#Chap2_Optique_Formation_Des_Images 
