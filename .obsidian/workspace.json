@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c0bc5c8b5dec0200",
+        "id": "fd3e8297c822e286",
         "type": "split",
         "children": [
           {
             "id": "a028cf4e1b6c202f",
             "type": "tabs",
-            "dimension": 85.84010840108402,
             "children": [
               {
                 "id": "94d867b21f56999f",
@@ -24,13 +23,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e3ad9ac8a6e6b386",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formules/Indice de réfraction.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "0e2146756df476d2",
+            "id": "06d74ee70bef792d",
             "type": "tabs",
-            "dimension": 14.159891598915983,
             "children": [
               {
                 "id": "1822b4d4ee1639e9",
@@ -58,17 +70,36 @@
                         "path": "Formules/Loi de Snell-Descartes.md",
                         "content": "## $$\\boxed{n_{1} \\cdot sin(i_{1}) = n_{2} \\cdot sin(i_{2})}$$\n\n$n_{1}\\; / \\;n_2 = \\text{indice de réfraction du milieu n}$ #indice_de_réfraction\n\n$i_{1}\\; / \\;i_2 = \\text{angle d'incidence du rayon i}$ #angle\n___\n#Chap1_Optique ",
                         "title": "Loi de Snell-Descartes"
+                      },
+                      {
+                        "path": "Formules/Longueur d'onde.md",
+                        "content": "## $$\\boxed{\\lambda = \\frac{c}{\\nu} }$$\n\n$\\lambda \\text{ en m}$ #Joule #eV\n\n$c = \\text{vitesse de la lumière }$ #C_vitesse_de_la_lumière \n\n$\\nu = \\text{fréquence du photon en Hz}$ #Fréquence\n\n___\n#Chap1_Optique ",
+                        "title": "Longueur d'onde"
                       }
                     ],
                     "title": "",
                     "tagPath": "Chap1_Optique"
                   }
                 }
+              },
+              {
+                "id": "1e41f9a0749e2854",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formules/Longueur d'onde.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -142,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Loi de Snell-Descartes.md",
+                "file": "Formules/Indice de réfraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Loi de Snell-Descartes.md",
+                "file": "Formules/Indice de réfraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Loi de Snell-Descartes.md"
+                "file": "Formules/Indice de réfraction.md"
               }
             }
           },
@@ -211,13 +242,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "94d867b21f56999f",
+  "active": "e3ad9ac8a6e6b386",
   "lastOpenFiles": [
-    "Formules/Indice de réfraction.md",
-    "Formules/Cone d'acceptance.md",
-    "Formules/Energie d'un photon.md",
-    "USI.md",
+    "Formules/Longueur d'onde.md",
     "Formules/Loi de Snell-Descartes.md",
+    "Formules/Energie d'un photon.md",
+    "Formules/Cone d'acceptance.md",
+    "Formules/Indice de réfraction.md",
+    "USI.md",
     "Untitled.md",
     "README.md",
     "Docs.md",
