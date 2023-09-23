@@ -6,11 +6,11 @@ $$\text{Conditions initiales}
 $$\begin{align*} \\\\
 
 \theta_{1} &< \frac{\pi}{2}-\arcsin \frac{n_{2}}{n_{1}}\\
-\sin(\theta_{1}) &< \sin\left( \frac{\pi}{2} - \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) \tag*{{Formule : }$\sin\left( \frac{\pi}{2}-\alpha \right) = \cos(\alpha) dow$}\\\\
+\sin(\theta_{1}) &< \sin\left( \frac{\pi}{2} - \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) \tag*{* {(1) Formule : }$\sin\left( \frac{\pi}{2}-\alpha \right) = \cos(\alpha)$}\\\\
 
-\sin(\theta_{1}) &< \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) & &\tag*{{Parce que : }$\sin(\theta_{1}) = \frac{n_{0}}{n_{1}}\sin(\theta_{0})$}\\\\
+\sin(\theta_{1}) &< \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) &\tag*{{* (2) Parce que : }$\sin(\theta_{1}) = \frac{n_{0}}{n_{1}}\sin(\theta_{0})$}\\\\
 
-\sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right)\\\\
+\sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) &\tag*{{* (3) }$\cos(x) = \sqrt{ 1-\sin{^2}(x) }$} \\\\
 
 \sin(\theta_{0}) &< \frac{n_{1}}{n_{2}} \cdot \sqrt{ 1-\sin^{2}\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) }\\\\
 
