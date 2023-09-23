@@ -11,15 +11,15 @@ $$\begin{align*} \\\\
 
 \sin(\theta_{1}) &< \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) &\tag*{{* (2) Parce que : }$\sin(\theta_{1}) = \frac{n_{0}}{n_{1}}\sin(\theta_{0})$}\\\\
 
-\sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) &\tag*{{* (3) }$\cos(x) = \sqrt{ 1-\sin{^2}(x) }$} \\\\
+\sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \underbrace{ \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) }_{ > \; 0 } &\tag*{{* (3) }$\cos(x) = \sqrt{ 1-\sin{^2}(x) }$} \\\\
 
 \sin(\theta_{0}) &< \frac{n_{1}}{n_{2}} \cdot \sqrt{ 1-\sin^{2}\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) }\\\\
 
 \sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \cdot \sqrt{ 1-\left( \frac{n_{2}}{n_{1}} \right)^2 }\\\\
 
-\sin(\theta_{0}) &< \frac{1}{n_{0}} \cdot \sqrt{ n_{1}{^2}-n_{2}{^2} }\\\\
+\sin(\theta_{0}) & < \underbrace{ \frac{1}{n_{0}} \cdot \sqrt{ n_{1}{^2}-n_{2}{^2} }_{ = \frac{1}{n_{0}}\cdot \sqrt{ n_{1} } } }\\\\
 
-\theta_{0} &< \arcsin\left( \frac{\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \right)\\\\
+\theta_{0} & < \arcsin\left( \frac{\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \right)\\\\
 
 &= \theta_{0,lim}
 \end{align*}$$

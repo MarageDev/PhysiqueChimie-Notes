@@ -11,14 +11,12 @@
             "id": "d42df840aabceb50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
-                "viewState": {
-                  "x": 2409.819400108556,
-                  "y": 446.0654017714756,
-                  "zoom": -1.2962309057008687
-                }
+                "file": "Demonstrations/Cone d'acceptance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
+                "file": "Demonstrations/Cone d'acceptance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
+                "file": "Demonstrations/Cone d'acceptance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas"
+                "file": "Demonstrations/Cone d'acceptance.md"
               }
             }
           },
@@ -177,12 +175,12 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
+    "Cartes Mentales/Optique.canvas",
     "Cartes Mentales/Dimensions.canvas",
     "Unités USI/Unités USI.pdf",
     "Unités USI/Annotations.md",
     "Unités USI",
     "USI.md",
-    "Cartes Mentales/Optique.canvas",
     "Docs.md",
     "README.md",
     "Formules/Energie d'un photon.md",
