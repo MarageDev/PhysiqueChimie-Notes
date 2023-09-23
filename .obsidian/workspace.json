@@ -11,9 +11,14 @@
             "id": "d42df840aabceb50",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Unités USI/Unités USI.pdf"
+                "file": "Cartes Mentales/Dimensions.canvas",
+                "viewState": {
+                  "x": -270,
+                  "y": -159.5827442827443,
+                  "zoom": -0.5961169014875847
+                }
               }
             }
           },
@@ -104,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unités USI/Unités USI.pdf",
+                "file": "USI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unités USI/Unités USI.pdf",
+                "file": "USI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unités USI/Unités USI.pdf"
+                "file": "USI.md"
               }
             }
           },
@@ -175,8 +180,8 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
-    "Unités USI/Annotations.md",
     "Unités USI/Unités USI.pdf",
+    "Unités USI/Annotations.md",
     "Unités USI",
     "USI.md",
     "Cartes Mentales/Dimensions.canvas",
