@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Cone d'acceptance.md",
+                    "file": "Formules/Dispersion intermodale.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -58,8 +58,8 @@
                       },
                       {
                         "path": "Formules/Cone d'acceptance.md",
-                        "content": "# $$\\begin{align*}\n\n\\end{align*}$$\n___\n#Chap1_Optique ",
-                        "title": "$$\\begin{align*}"
+                        "content": "#Demonstration\n$$\\text{Conditions initiales }\\;\n\\boxed{\n\\begin{cases}\n    RT \\iff i_{1} &> \\arcsin \\frac{n_{2}}{n_{1}} \\\\ n_{0}\\sin (\\theta_{0}) &= n_{1}\\sin (\\theta_{1}) \\\\ \\theta_{1}=\\frac{\\pi}{2}-i_{1}\n\\end{cases}}$$\n$$\\begin{align*} \\\\\\\\\n\n\\theta_{1} &< \\frac{\\pi}{2}-\\arcsin \\frac{n_{2}}{n_{1}}\\\\\n\\sin(\\theta_{1}) &< \\sin\\left( \\frac{\\pi}{2} - \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) \\tag*{* {(1) Formule : }$\\sin\\left( \\frac{\\pi}{2}-\\alpha \\right) = \\cos(\\alpha)$}\\\\\\\\\n\n\\sin(\\theta_{1}) &< \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) &\\tag*{{* (2) Parce que : }$\\sin(\\theta_{1}) = \\frac{n_{0}}{n_{1}}\\sin(\\theta_{0})$}\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{0}} \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) &\\tag*{{* (3) }$\\cos(x) = \\sqrt{ 1-\\sin{^2}(x) }$} \\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{2}} \\cdot \\sqrt{ 1-\\sin^{2}\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) }\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{0}} \\cdot \\sqrt{ 1-\\left( \\frac{n_{2}}{n_{1}} \\right)^2 }\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{1}{n_{0}} \\cdot \\sqrt{ n_{1}{^2}-n_{2}{^2} }\\\\\\\\\n\n\\theta_{0} &< \\arcsin\\left( \\frac{\\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \\right)\\\\\\\\\n\n&= \\theta_{0,lim}\n\\end{align*}$$\n$$\\boxed{\\theta_{0,lim} = \\arcsin\\left( \\frac{\\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \\right)}$$\n\nSi $\\theta_{0} < \\theta_{0,lim}$ RT en I, rayon guidé\nSi $\\theta_{0} > \\theta_{0,lim}$ RT transmis dans le milieu\n___\n$(2) :$\n$$\\begin{align}\n\\sin(\\theta_{1}) & = \\frac{n_{0}}{n_{1}}\\sin(\\theta_{0})  \\\\\n\\sin(\\theta_{0}) &= \\frac{n_{0}}{n_{1}} \\;\\sin(\\theta_{1})\n\\end{align}\n\\;\\;\\;\\;\n\\text{avec } \\sin(\\theta_{1}) = \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right)$$\n___\n$(3) :$\n$$\\begin{align}\n\\sin^{2}(x)+\\cos^{2}(x) & = 1 \\\\\n\\cos^{2}(x) &= 1-\\sin^{2}(x) \\\\\n\\cos(x) & = \\sqrt{ 1-\\sin^{2}(x) }\n\n\\end{align}$$\n___\n#Chap1_Optique ",
+                        "title": "Cone d'acceptance"
                       },
                       {
                         "path": "Formules/Energie d'un photon.md",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Cone d'acceptance.md",
+                "file": "Formules/Dispersion intermodale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Cone d'acceptance.md",
+                "file": "Formules/Dispersion intermodale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Cone d'acceptance.md"
+                "file": "Formules/Dispersion intermodale.md"
               }
             }
           },
@@ -247,16 +247,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "eab6604a5e3ddd83",
+  "active": "e3ad9ac8a6e6b386",
   "lastOpenFiles": [
+    "Formules/Cone d'acceptance.md",
+    "Formules/Angle I limite.md",
+    "Formules/Dispersion intermodale.md",
     "Formules/Réflexion totale.md",
     "USI.md",
     "Formules/Loi de Snell-Descartes.md",
-    "Formules/Angle I limite.md",
     "Formules/Longueur d'onde.md",
     "Formules/Indice de réfraction.md",
     "Formules/Energie d'un photon.md",
-    "Formules/Cone d'acceptance.md",
     "Untitled.md",
     "README.md",
     "Docs.md",

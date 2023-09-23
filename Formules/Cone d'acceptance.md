@@ -1,8 +1,9 @@
-
-$$\text{Conditions initiales}
+#Demonstration
+$$\text{Conditions initiales }\;
+\boxed{
 \begin{cases}
     RT \iff i_{1} &> \arcsin \frac{n_{2}}{n_{1}} \\ n_{0}\sin (\theta_{0}) &= n_{1}\sin (\theta_{1}) \\ \theta_{1}=\frac{\pi}{2}-i_{1}
-\end{cases}$$
+\end{cases}}$$
 $$\begin{align*} \\\\
 
 \theta_{1} &< \frac{\pi}{2}-\arcsin \frac{n_{2}}{n_{1}}\\
@@ -22,20 +23,20 @@ $$\begin{align*} \\\\
 
 &= \theta_{0,lim}
 \end{align*}$$
+$$\boxed{\theta_{0,lim} = \arcsin\left( \frac{\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \right)}$$
 
 Si $\theta_{0} < \theta_{0,lim}$ RT en I, rayon guidé
 Si $\theta_{0} > \theta_{0,lim}$ RT transmis dans le milieu
-$$(2) : $$
-$$ \linenumbers \begin{align}
-
-
+___
+$(2) :$
+$$\begin{align}
 \sin(\theta_{1}) & = \frac{n_{0}}{n_{1}}\sin(\theta_{0})  \\
 \sin(\theta_{0}) &= \frac{n_{0}}{n_{1}} \;\sin(\theta_{1})
 \end{align}
 \;\;\;\;
 \text{avec } \sin(\theta_{1}) = \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right)$$
-
-$$(3) : $$ 
+___
+$(3) :$
 $$\begin{align}
 \sin^{2}(x)+\cos^{2}(x) & = 1 \\
 \cos^{2}(x) &= 1-\sin^{2}(x) \\
