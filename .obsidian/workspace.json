@@ -11,12 +11,9 @@
             "id": "d42df840aabceb50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "USI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Unités USI/Unités USI.pdf"
               }
             }
           },
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USI.md",
+                "file": "Unités USI/Unités USI.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USI.md",
+                "file": "Unités USI/Unités USI.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USI.md"
+                "file": "Unités USI/Unités USI.pdf"
               }
             }
           },
@@ -178,9 +175,11 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
-    "Unités USI.pdf",
-    "Cartes Mentales/Dimensions.canvas",
+    "Unités USI/Annotations.md",
+    "Unités USI/Unités USI.pdf",
+    "Unités USI",
     "USI.md",
+    "Cartes Mentales/Dimensions.canvas",
     "Cartes Mentales/Optique.canvas",
     "Docs.md",
     "README.md",
