@@ -25,8 +25,12 @@ $$\begin{align*} \\\\
 
 Si $\theta_{0} < \theta_{0,lim}$ RT en I, rayon guidé
 Si $\theta_{0} > \theta_{0,lim}$ RT transmis dans le milieu
+$$(2) : $$
+$$ \sin(\theta_{1}) = \frac{n_{0}}{n_{1}}\sin(\theta_{0}) $$
+
+$$(3) : $$ 
 $$\begin{align}
-{(3) : } \\\sin^{2}(x)+\cos^{2}(x) & = 1 \\
+\sin^{2}(x)+\cos^{2}(x) & = 1 \\
 \cos^{2}(x) &= 1-\sin^{2}(x) \\
 \cos(x) & = \sqrt{ 1-\sin^{2}(x) }
 
