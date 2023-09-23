@@ -10,6 +10,7 @@
           {
             "id": "a028cf4e1b6c202f",
             "type": "tabs",
+            "dimension": 19.230769230769234,
             "children": [
               {
                 "id": "94d867b21f56999f",
@@ -30,7 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Dispersion intermodale.md",
+                    "file": "USI.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -43,6 +44,7 @@
           {
             "id": "06d74ee70bef792d",
             "type": "tabs",
+            "dimension": 80.76923076923077,
             "children": [
               {
                 "id": "1822b4d4ee1639e9",
@@ -93,7 +95,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Dispersion intermodale.md",
+                    "file": "Formules/Cone d'acceptance.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": false
@@ -178,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Dispersion intermodale.md",
+                "file": "Formules/Cone d'acceptance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Dispersion intermodale.md",
+                "file": "Formules/Cone d'acceptance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Dispersion intermodale.md"
+                "file": "Formules/Cone d'acceptance.md"
               }
             }
           },
@@ -247,14 +249,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e3ad9ac8a6e6b386",
+  "active": "eab6604a5e3ddd83",
   "lastOpenFiles": [
-    "Formules/Energie d'un photon.md",
+    "USI.md",
     "Formules/Dispersion intermodale.md",
+    "Formules/Energie d'un photon.md",
     "Formules/Cone d'acceptance.md",
     "Formules/Angle I limite.md",
     "Formules/Réflexion totale.md",
-    "USI.md",
     "Formules/Loi de Snell-Descartes.md",
     "Formules/Longueur d'onde.md",
     "Formules/Indice de réfraction.md",
