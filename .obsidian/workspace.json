@@ -10,7 +10,7 @@
           {
             "id": "24278c6bf9e2461a",
             "type": "tabs",
-            "dimension": 52.59615384615385,
+            "dimension": 74.32692307692308,
             "children": [
               {
                 "id": "d42df840aabceb50",
@@ -20,9 +20,9 @@
                   "state": {
                     "file": "Sans titre.canvas",
                     "viewState": {
-                      "x": 255.57107587417295,
-                      "y": 401.0106820816877,
-                      "zoom": -1.3902695941299017
+                      "x": 2512.5961503211847,
+                      "y": -98.93456577338753,
+                      "zoom": -0.9724821948116384
                     }
                   }
                 }
@@ -32,7 +32,7 @@
           {
             "id": "6bcd6447cc7cc26b",
             "type": "tabs",
-            "dimension": 47.40384615384615,
+            "dimension": 25.67307692307692,
             "children": [
               {
                 "id": "fec343eed4bfc2cf",
@@ -120,7 +120,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -268,6 +269,8 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
+    "Formules/Sans titre.md",
+    "Sans titre.canvas",
     "Formules/Réflexion totale.md",
     "Formules/Cone d'acceptance.md",
     "Formules/Loi de Snell-Descartes.md",
@@ -275,12 +278,10 @@
     "Formules/Formule de conjugaison (optique).md",
     "Formules/Energie d'un photon.md",
     "Formules/Dispersion intermodale.md",
-    "Sans titre.canvas",
     "Formules/Relation de Descartes (optique).md",
     "USI.md",
     "Formules/Longueur d'onde.md",
     "Formules/Angle I limite.md",
-    "Formules/Sans titre.md",
     "Formules/Vergence d'une lentille.md",
     "Images/Pasted image 20230923153517.png",
     "Images",
