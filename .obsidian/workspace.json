@@ -17,8 +17,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Loi de Snell-Descartes.md",
-                    "mode": "preview",
+                    "file": "USI.md",
+                    "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
@@ -83,7 +83,7 @@
                       },
                       {
                         "path": "Formules/Réflexion totale.md",
-                        "content": "\n## $$\\boxed{RT \\iff i_{1} < i_{lim} }$$\n___\n#Chap1_Optique ",
+                        "content": "\n## $$\\begin{align*}\\\\\n\\boxed{RT \\iff i_{1} < i_{lim}\\end{align}}$$\n___\n#Chap1_Optique ",
                         "title": "Réflexion totale"
                       }
                     ],
@@ -254,11 +254,11 @@
   },
   "active": "e3ad9ac8a6e6b386",
   "lastOpenFiles": [
-    "Formules/Angle I limite.md",
     "USI.md",
     "Formules/Réflexion totale.md",
-    "Formules/Longueur d'onde.md",
     "Formules/Loi de Snell-Descartes.md",
+    "Formules/Angle I limite.md",
+    "Formules/Longueur d'onde.md",
     "Formules/Indice de réfraction.md",
     "Formules/Energie d'un photon.md",
     "Formules/Cone d'acceptance.md",
