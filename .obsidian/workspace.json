@@ -29,8 +29,13 @@
                 "id": "e3ad9ac8a6e6b386",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formules/Longueur d'onde.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
                 }
               }
             ],
@@ -175,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formules/Longueur d'onde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Formules/Longueur d'onde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formules/Longueur d'onde.md"
+              }
             }
           },
           {
@@ -242,6 +251,7 @@
   },
   "active": "e3ad9ac8a6e6b386",
   "lastOpenFiles": [
+    "Formules/Loi de Snell-Descartes.md",
     "Images/Pasted image 20230923153517.png",
     "USI.md",
     "Images",
@@ -261,7 +271,6 @@
     "Pasted image 20230923153450.png",
     "Pasted image 20230923153432.png",
     "Formules/Réflexion totale.md",
-    "Formules/Loi de Snell-Descartes.md",
     "Formules/Longueur d'onde.md",
     "Formules/Indice de réfraction.md",
     "Untitled.md",
