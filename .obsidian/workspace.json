@@ -11,14 +11,12 @@
             "id": "d42df840aabceb50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cartes Mentales/Dimensions.canvas",
-                "viewState": {
-                  "x": -325.15979597549426,
-                  "y": -72.5899241474122,
-                  "zoom": -0.8992655768654598
-                }
+                "file": "USI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartes Mentales/Dimensions.canvas",
+                "file": "USI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartes Mentales/Dimensions.canvas",
+                "file": "USI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartes Mentales/Dimensions.canvas"
+                "file": "USI.md"
               }
             }
           },
@@ -180,8 +178,9 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
-    "USI.md",
+    "Unités USI.pdf",
     "Cartes Mentales/Dimensions.canvas",
+    "USI.md",
     "Cartes Mentales/Optique.canvas",
     "Docs.md",
     "README.md",
