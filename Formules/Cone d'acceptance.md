@@ -25,5 +25,11 @@ $$\begin{align*} \\\\
 
 Si $\theta_{0} < \theta_{0,lim}$ RT en I, rayon guidé
 Si $\theta_{0} > \theta_{0,lim}$ RT transmis dans le milieu
+$$\begin{align}
+{(3) : } \\\sin^{2}(x)+\cos^{2}(x) & = 1 \\
+\cos^{2}(x) &= 1-\sin^{2}(x) \\
+\cos(x) & = \sqrt{ 1-\sin^{2}(x) }
+
+\end{align}$$
 ___
 #Chap1_Optique 
