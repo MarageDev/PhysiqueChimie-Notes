@@ -30,8 +30,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Indice de réfraction.md",
-                    "mode": "preview",
+                    "file": "Formules/Angle I limite.md",
+                    "mode": "source",
                     "backlinks": true,
                     "source": true
                   }
@@ -83,13 +83,13 @@
                 }
               },
               {
-                "id": "1e41f9a0749e2854",
+                "id": "eab6604a5e3ddd83",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Longueur d'onde.md",
-                    "mode": "preview",
+                    "file": "Formules/Angle I limite.md",
+                    "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Indice de réfraction.md",
+                "file": "Formules/Angle I limite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Indice de réfraction.md",
+                "file": "Formules/Angle I limite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Indice de réfraction.md"
+                "file": "Formules/Angle I limite.md"
               }
             }
           },
@@ -244,11 +244,12 @@
   },
   "active": "e3ad9ac8a6e6b386",
   "lastOpenFiles": [
+    "Formules/Indice de réfraction.md",
+    "Formules/Angle I limite.md",
     "Formules/Longueur d'onde.md",
     "Formules/Loi de Snell-Descartes.md",
     "Formules/Energie d'un photon.md",
     "Formules/Cone d'acceptance.md",
-    "Formules/Indice de réfraction.md",
     "USI.md",
     "Untitled.md",
     "README.md",
