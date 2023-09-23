@@ -1,3 +1,9 @@
 #Grandissement
 
-# $$\boxed{\gamma = \frac{AB}{}}$$
+# $$\boxed{\gamma = \frac{\overline{A'B'}}{\overline{AB}}}$$
+
+$\overline{AB} = \text{Taille de l'objet en m}$ #Mètre 
+
+$\overline{AB} = \text{Taille de l'image en m}$ #Mètre 
+
+![[Pasted image 20230923153517.png]]

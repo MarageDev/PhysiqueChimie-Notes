@@ -10,7 +10,7 @@
           {
             "id": "a028cf4e1b6c202f",
             "type": "tabs",
-            "dimension": 19.230769230769234,
+            "dimension": 45.86538461538461,
             "children": [
               {
                 "id": "94d867b21f56999f",
@@ -31,10 +31,10 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "USI.md",
+                    "file": "Formules/Angle I limite.md",
                     "mode": "source",
                     "backlinks": true,
-                    "source": true
+                    "source": false
                   }
                 }
               }
@@ -44,7 +44,7 @@
           {
             "id": "06d74ee70bef792d",
             "type": "tabs",
-            "dimension": 80.76923076923077,
+            "dimension": 54.13461538461538,
             "children": [
               {
                 "id": "1822b4d4ee1639e9",
@@ -96,7 +96,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Formules/Grandissement.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": true,
                     "source": false
                   }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Grandissement.md",
+                "file": "Formules/Angle I limite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Grandissement.md",
+                "file": "Formules/Angle I limite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Grandissement.md"
+                "file": "Formules/Angle I limite.md"
               }
             }
           },
@@ -249,10 +249,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "eab6604a5e3ddd83",
+  "active": "e3ad9ac8a6e6b386",
   "lastOpenFiles": [
-    "Formules/Cone d'acceptance.md",
+    "Pasted image 20230923153517.png",
+    "Pasted image 20230923153354.png",
     "Formules/Grandissement.md",
+    "Pasted image 20230923153413.png",
+    "Pasted image 20230923153459.png",
+    "Pasted image 20230923153450.png",
+    "Pasted image 20230923153432.png",
+    "Formules/Cone d'acceptance.md",
     "USI.md",
     "Formules/Dispersion intermodale.md",
     "Formules/Energie d'un photon.md",
