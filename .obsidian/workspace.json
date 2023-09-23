@@ -4,66 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "c4fd8dd76a037298",
-        "type": "split",
+        "id": "24278c6bf9e2461a",
+        "type": "tabs",
         "children": [
           {
-            "id": "24278c6bf9e2461a",
-            "type": "tabs",
-            "dimension": 52.88461538461539,
-            "children": [
-              {
-                "id": "d42df840aabceb50",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Cartes Mentales/Dimensions.canvas",
-                    "viewState": {
-                      "x": -227.5,
-                      "y": 328.3138520100679,
-                      "zoom": -0.8992655768654599
-                    }
-                  }
-                }
-              },
-              {
-                "id": "c531e791ed6b61e4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
+            "id": "d42df840aabceb50",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cartes Mentales/Dimensions.canvas",
+                "viewState": {
+                  "x": -325.15979597549426,
+                  "y": -72.5899241474122,
+                  "zoom": -0.8992655768654598
                 }
               }
-            ]
+            }
           },
           {
-            "id": "6bcd6447cc7cc26b",
-            "type": "tabs",
-            "dimension": 47.11538461538461,
-            "children": [
-              {
-                "id": "90c9db447bd4a7bd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "USI.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "c531e791ed6b61e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USI.md",
+                "file": "Cartes Mentales/Dimensions.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USI.md",
+                "file": "Cartes Mentales/Dimensions.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USI.md"
+                "file": "Cartes Mentales/Dimensions.canvas"
               }
             }
           },
@@ -206,13 +178,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "90c9db447bd4a7bd",
+  "active": "d42df840aabceb50",
   "lastOpenFiles": [
+    "USI.md",
     "Cartes Mentales/Dimensions.canvas",
     "Cartes Mentales/Optique.canvas",
     "Docs.md",
     "README.md",
-    "USI.md",
     "Formules/Energie d'un photon.md",
     "Formules/Dispersion intermodale.md",
     "Modelisations",
