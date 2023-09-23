@@ -11,14 +11,9 @@
             "id": "d42df840aabceb50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
-                "viewState": {
-                  "x": 3140.935298170043,
-                  "y": 497.80546346260564,
-                  "zoom": -0.2962309057008689
-                }
+                "file": "Unités USI/Unités USI.pdf"
               }
             }
           },
@@ -106,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
+                "file": "Unités USI/Unités USI.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
+                "file": "Unités USI/Unités USI.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas"
+                "file": "Unités USI/Unités USI.pdf"
               }
             }
           },
@@ -177,6 +172,7 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
+    "Formules/Angle I limite.md",
     "Cartes Mentales/Dimensions.canvas",
     "Demonstrations/Cone d'acceptance.md",
     "Cartes Mentales/Optique.canvas",
@@ -199,7 +195,6 @@
     "Formules/Formule de conjugaison (optique).md",
     "Formules/Relation de Descartes (optique).md",
     "Formules/Longueur d'onde.md",
-    "Formules/Angle I limite.md",
     "Formules/Vergence d'une lentille.md",
     "Images/Pasted image 20230923153517.png",
     "Images",
