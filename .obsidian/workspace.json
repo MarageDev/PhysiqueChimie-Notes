@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Réflexion totale.md",
+                    "file": "Formules/Cone d'acceptance.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -58,8 +58,8 @@
                       },
                       {
                         "path": "Formules/Cone d'acceptance.md",
-                        "content": "___\n#Chap1_Optique ",
-                        "title": "Cone d'acceptance"
+                        "content": "# $$\\begin{align*}\n\n\\end{align*}$$\n___\n#Chap1_Optique ",
+                        "title": "$$\\begin{align*}"
                       },
                       {
                         "path": "Formules/Energie d'un photon.md",
@@ -80,11 +80,6 @@
                         "path": "Formules/Longueur d'onde.md",
                         "content": "## $$\\boxed{\\lambda = \\frac{c}{\\nu} }$$\n\n$\\lambda \\text{ en m}$ #Joule #eV\n\n$c = \\text{vitesse de la lumière }$ #C_vitesse_de_la_lumière \n\n$\\nu = \\text{fréquence du photon en Hz}$ #Fréquence\n\n___\n#Chap1_Optique ",
                         "title": "Longueur d'onde"
-                      },
-                      {
-                        "path": "Formules/Réflexion totale.md",
-                        "content": "\n## $$\\begin{align*}\\\\\n\\boxed{RT \\iff i_{1} < i_{lim}\\end{align}}$$\n___\n#Chap1_Optique ",
-                        "title": "Réflexion totale"
                       }
                     ],
                     "title": "",
@@ -98,8 +93,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Réflexion totale.md",
-                    "mode": "source",
+                    "file": "Formules/Cone d'acceptance.md",
+                    "mode": "preview",
                     "backlinks": true,
                     "source": false
                   }
@@ -183,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Réflexion totale.md",
+                "file": "Formules/Cone d'acceptance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Réflexion totale.md",
+                "file": "Formules/Cone d'acceptance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Réflexion totale.md"
+                "file": "Formules/Cone d'acceptance.md"
               }
             }
           },
@@ -252,10 +247,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e3ad9ac8a6e6b386",
+  "active": "eab6604a5e3ddd83",
   "lastOpenFiles": [
-    "USI.md",
     "Formules/Réflexion totale.md",
+    "USI.md",
     "Formules/Loi de Snell-Descartes.md",
     "Formules/Angle I limite.md",
     "Formules/Longueur d'onde.md",
