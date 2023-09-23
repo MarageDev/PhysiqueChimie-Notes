@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Grandissement.md",
+                    "file": "Formules/Relation de Descartes (optique).md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Grandissement.md",
+                    "file": "Formules/Relation de Descartes (optique).md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": false
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Grandissement.md",
+                "file": "Formules/Relation de Descartes (optique).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Grandissement.md",
+                "file": "Formules/Relation de Descartes (optique).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Grandissement.md"
+                "file": "Formules/Relation de Descartes (optique).md"
               }
             }
           },
@@ -275,14 +275,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "eab6604a5e3ddd83",
+  "active": "f7556fe9f534937b",
   "lastOpenFiles": [
+    "Formules/Réflexion totale.md",
+    "Formules/Longueur d'onde.md",
+    "Formules/Grandissement.md",
+    "Formules/Relation de Descartes (optique).md",
+    "Formules/Formule de conjugaison (optique).md",
     "Formules/Sans titre.md",
     "Formules/Vergence d'une lentille.md",
     "Formules/Cone d'acceptance.md",
-    "Formules/Longueur d'onde.md",
     "USI.md",
-    "Formules/Réflexion totale.md",
     "Formules/Loi de Snell-Descartes.md",
     "Images/Pasted image 20230923153517.png",
     "Images",
@@ -295,7 +298,6 @@
     "Images/Pasted image 20230923154248.png",
     "Formules/Angle I limite.md",
     "Pasted image 20230923153354.png",
-    "Formules/Grandissement.md",
     "Pasted image 20230923153413.png",
     "Pasted image 20230923153459.png",
     "Pasted image 20230923153450.png",
