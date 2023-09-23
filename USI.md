@@ -16,18 +16,18 @@ $$\begin{align*}\\
 
 ___
 # Joule #Joule  
-$$\large \boxed{[J] = [M] \cdot [L]^{-2}}$$
-$$ 1\;J = 1\;kg \cdot m^{-2}$$
+$$\large \boxed{[J] = [M] \cdot[L]^{2} \cdot [T]^{-2}}$$
+$$ 1\;J = 1\;kg \cdot m^{2} \cdot s^{-2}$$
 #Energie
 ___
 # Electron Volt #eV
-$$\large \boxed{[eV] = [J] = [M] \cdot [L]^{-2}}$$
+$$\large \boxed{[eV] = [J] = [M] \cdot[L]^{2} \cdot [T]^{-2}}$$
 $1eV = 1.602 176 634 \times 10^{−19}\;J$
 ___
 # Constante de Plank #C_de_plank 
 $$\large \boxed{[h] =  [M] \cdot [L]^{2} \cdot [T]^{-1}}$$
 $h=  6.62607015 \times 10^{-34} \; m^{2} \cdot kg \cdot s^{-1}$
-$h=  6.62607015 \times 10^{-34} \; J \cdot s^{-1}$
+$h=  6.62607015 \times 10^{-34} \; J \cdot s$
 ___
 # Fréquence #Fréquence 
 Exprimée en Hertz ($Hz$)  ou notée $f$
