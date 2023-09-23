@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "USI.md",
+                    "file": "Formules/Grandissement.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -108,7 +108,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Vergence d'une lentille.md",
+                    "file": "Formules/Grandissement.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": false
@@ -129,7 +129,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USI.md",
+                "file": "Formules/Grandissement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USI.md",
+                "file": "Formules/Grandissement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USI.md"
+                "file": "Formules/Grandissement.md"
               }
             }
           },
@@ -275,18 +275,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "871637f2dfee0386",
+  "active": "eab6604a5e3ddd83",
   "lastOpenFiles": [
+    "Formules/Sans titre.md",
     "Formules/Vergence d'une lentille.md",
+    "Formules/Cone d'acceptance.md",
     "Formules/Longueur d'onde.md",
+    "USI.md",
     "Formules/Réflexion totale.md",
     "Formules/Loi de Snell-Descartes.md",
     "Images/Pasted image 20230923153517.png",
-    "USI.md",
     "Images",
     "Modélisation Lentille Divergent ( LD ).md",
     "Modélisation Lentille Convergent ( LC ).md",
-    "Formules/Cone d'acceptance.md",
     "Formules/Dispersion intermodale.md",
     "Formules/Energie d'un photon.md",
     "Images/Pasted image 20230923155144.png",

@@ -1,6 +1,6 @@
 #Grandissement
 
-# $$\boxed{\gamma = \frac{\overline{A'B'}}{\overline{AB}}}$$
+# $$\boxed{\gamma =\; \frac{\overline{A'B'}}{\overline{AB}} \;= \; \frac{\overline{F'A'}}{f'}=\frac{f'}{FA}}$$
 
 $\overline{AB} = \text{Taille de l'objet en m}$ #Mètre 
 

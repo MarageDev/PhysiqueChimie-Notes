@@ -45,6 +45,7 @@ Un angle $\lambda$ est considéré comme adimensionnel.
 $$\large \boxed{[\lambda] =  1}$$
 ___
 # Dioptries #Dioptries 
-Ca sert à exprimer la ver$$\large \boxed{[\delta] = [L]^{-1}}$$
+Ca sert à exprimer la vergence d'une lentille #Vergence 
+$$\large \boxed{[\delta] = [L]^{-1}}$$
 ___
 #Chap0_Dimensions
