@@ -9,13 +9,14 @@
 		{"id":"99608772afe475e5","type":"file","file":"Formules/Energie d'un photon.md","x":-949,"y":160,"width":400,"height":400},
 		{"id":"8c2c04cd30db3ff0","type":"file","file":"Formules/Longueur d'onde.md","x":-195,"y":160,"width":400,"height":400},
 		{"id":"2f5ac4f8f74e678f","type":"file","file":"Formules/Dispersion intermodale.md","x":-1480,"y":160,"width":400,"height":400},
-		{"id":"942063d61c66fdc0","type":"file","file":"Formules/Formule de conjugaison (optique).md","x":2520,"y":320,"width":400,"height":400},
 		{"id":"d62f0de406a659d9","type":"text","text":"Formation des images ( Optique )","x":1120,"y":-661,"width":250,"height":60},
 		{"id":"1ace1e6c72f4b9cf","x":-120,"y":-661,"width":250,"height":60,"type":"text","text":"Optique"},
-		{"id":"10fc51409961740a","x":1760,"y":40,"width":400,"height":400,"type":"file","file":"Modélisation Lentille Convergent ( LC ).md"},
-		{"id":"561ceec9fb81726d","x":1760,"y":-440,"width":400,"height":400,"type":"file","file":"Modélisation Lentille Divergent ( LD ).md"},
+		{"id":"10fc51409961740a","x":1760,"y":40,"width":580,"height":400,"type":"file","file":"Modélisation Lentille Convergent ( LC ).md"},
+		{"id":"561ceec9fb81726d","x":1760,"y":-440,"width":560,"height":420,"type":"file","file":"Modélisation Lentille Divergent ( LD ).md"},
 		{"id":"26bf7c2281646903","x":1760,"y":-1001,"width":400,"height":400,"type":"file","file":"Formules/Vergence d'une lentille.md"},
-		{"id":"d65335183ab6d0a6","x":2800,"y":-631,"width":400,"height":400,"type":"file","file":"Formules/Relation de Descartes (optique).md"}
+		{"id":"942063d61c66fdc0","type":"file","file":"Formules/Formule de conjugaison (optique).md","x":3000,"y":-1001,"width":400,"height":400},
+		{"id":"d65335183ab6d0a6","x":2440,"y":-1001,"width":400,"height":801,"type":"file","file":"Formules/Relation de Descartes (optique).md"},
+		{"id":"89761a26f07da7c2","x":2440,"y":-119,"width":1231,"height":718,"type":"file","file":"Pasted image 20230923165141.png"}
 	],
 	"edges":[
 		{"id":"7f78800c4f7f39fe","fromNode":"eea5be0adc0a7b07","fromSide":"bottom","toNode":"57de860be0817f99","toSide":"top"},
@@ -34,8 +35,7 @@
 		{"id":"8f79271743134602","fromNode":"d62f0de406a659d9","fromSide":"right","toNode":"10fc51409961740a","toSide":"left"},
 		{"id":"37401a3735c4aa4d","fromNode":"d62f0de406a659d9","fromSide":"right","toNode":"561ceec9fb81726d","toSide":"left"},
 		{"id":"9122ea16ec80a908","fromNode":"d62f0de406a659d9","fromSide":"right","toNode":"26bf7c2281646903","toSide":"left"},
-		{"id":"79129bce023bdd4b","fromNode":"26bf7c2281646903","fromSide":"bottom","toNode":"942063d61c66fdc0","toSide":"top"},
-		{"id":"a1b7ea5a1378b29d","fromNode":"d62f0de406a659d9","fromSide":"right","toNode":"942063d61c66fdc0","toSide":"left"},
-		{"id":"6da436eff1f0b6de","fromNode":"26bf7c2281646903","fromSide":"right","toNode":"d65335183ab6d0a6","toSide":"top"}
+		{"id":"d8f16abe290f1aee","fromNode":"26bf7c2281646903","fromSide":"right","toNode":"d65335183ab6d0a6","toSide":"left"},
+		{"id":"612aa73e2da5156b","fromNode":"26bf7c2281646903","fromSide":"top","toNode":"942063d61c66fdc0","toSide":"top"}
 	]
 }
