@@ -16,12 +16,14 @@
                 "id": "d42df840aabceb50",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "Docs.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
+                    "file": "Cartes Mentales/Dimensions.canvas",
+                    "viewState": {
+                      "x": -227.5,
+                      "y": 328.3138520100679,
+                      "zoom": -0.8992655768654599
+                    }
                   }
                 }
               },
@@ -29,19 +31,16 @@
                 "id": "c531e791ed6b61e4",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Cartes Mentales/Dimensions.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 136,
-                      "zoom": 0
-                    }
+                    "file": "README.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "6bcd6447cc7cc26b",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartes Mentales/Dimensions.canvas",
+                "file": "USI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartes Mentales/Dimensions.canvas",
+                "file": "USI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartes Mentales/Dimensions.canvas"
+                "file": "USI.md"
               }
             }
           },
@@ -207,15 +206,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c531e791ed6b61e4",
+  "active": "90c9db447bd4a7bd",
   "lastOpenFiles": [
-    "USI.md",
     "Cartes Mentales/Dimensions.canvas",
-    "README.md",
+    "Cartes Mentales/Optique.canvas",
     "Docs.md",
+    "README.md",
+    "USI.md",
     "Formules/Energie d'un photon.md",
     "Formules/Dispersion intermodale.md",
-    "Cartes Mentales/Optique.canvas",
     "Modelisations",
     "Demonstrations",
     "Cartes Mentales",

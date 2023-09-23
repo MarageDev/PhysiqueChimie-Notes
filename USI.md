@@ -38,7 +38,8 @@ ___
 # Mètre #Mètre 
 ___
 # Indice de réfraction #indice_de_réfraction
-Pas d'unité 
+Pas d'unité, il est adimensionnel 
+$$\large \boxed{[n] =  1}$$
 ___
 # Angle #angle 
 Un angle $\lambda$ est considéré comme adimensionnel.

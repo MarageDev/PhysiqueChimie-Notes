@@ -10,12 +10,12 @@
 		{"id":"8c2c04cd30db3ff0","type":"file","file":"Formules/Longueur d'onde.md","x":-195,"y":160,"width":400,"height":400},
 		{"id":"2f5ac4f8f74e678f","type":"file","file":"Formules/Dispersion intermodale.md","x":-1480,"y":160,"width":400,"height":400},
 		{"id":"d62f0de406a659d9","type":"text","text":"Formation des images ( Optique )","x":1120,"y":-661,"width":250,"height":60},
-		{"id":"1ace1e6c72f4b9cf","x":-120,"y":-661,"width":250,"height":60,"type":"text","text":"Optique"},
-		{"id":"89761a26f07da7c2","x":2440,"y":-119,"width":1231,"height":718,"type":"file","file":"Images/Pasted image 20230923165141.png"},
-		{"id":"10fc51409961740a","x":2340,"y":720,"width":580,"height":400,"type":"file","file":"Modelisations/Modélisation Lentille Convergent ( LC ).md"},
-		{"id":"561ceec9fb81726d","x":3191,"y":720,"width":560,"height":420,"type":"file","file":"Modelisations/Modélisation Lentille Divergent ( LD ).md"},
-		{"id":"26bf7c2281646903","x":1720,"y":-400,"width":400,"height":400,"type":"file","file":"Formules/Vergence d'une lentille.md"},
-		{"id":"d65335183ab6d0a6","x":2960,"y":-1002,"width":400,"height":801,"type":"file","file":"Formules/Relation de Descartes (optique).md"},
+		{"id":"1ace1e6c72f4b9cf","type":"text","text":"Optique","x":-120,"y":-661,"width":250,"height":60},
+		{"id":"89761a26f07da7c2","type":"file","file":"Images/Pasted image 20230923165141.png","x":2440,"y":-119,"width":1231,"height":718},
+		{"id":"10fc51409961740a","type":"file","file":"Modelisations/Modélisation Lentille Convergent ( LC ).md","x":2340,"y":720,"width":580,"height":400},
+		{"id":"561ceec9fb81726d","type":"file","file":"Modelisations/Modélisation Lentille Divergent ( LD ).md","x":3191,"y":720,"width":560,"height":420},
+		{"id":"26bf7c2281646903","type":"file","file":"Formules/Vergence d'une lentille.md","x":1720,"y":-400,"width":400,"height":400},
+		{"id":"d65335183ab6d0a6","type":"file","file":"Formules/Relation de Descartes (optique).md","x":2960,"y":-1002,"width":400,"height":801},
 		{"id":"942063d61c66fdc0","type":"file","file":"Formules/Formule de conjugaison (optique).md","x":2440,"y":-1001,"width":400,"height":400}
 	],
 	"edges":[
@@ -37,7 +37,6 @@
 		{"id":"3b2fd8507223f1a1","fromNode":"89761a26f07da7c2","fromSide":"left","toNode":"26bf7c2281646903","toSide":"right"},
 		{"id":"82c80f8e8866d246","fromNode":"26bf7c2281646903","fromSide":"top","toNode":"942063d61c66fdc0","toSide":"left"},
 		{"id":"81f332743ea6f2a7","fromNode":"26bf7c2281646903","fromSide":"right","toNode":"d65335183ab6d0a6","toSide":"left"},
-		{"id":"a2f15f7ca663d590","fromNode":"26bf7c2281646903","fromSide":"left","toNode":"900293796ebbc31d","toSide":"right"},
 		{"id":"d968fc2094f095bd","fromNode":"d62f0de406a659d9","fromSide":"right","toNode":"26bf7c2281646903","toSide":"left"}
 	]
 }
