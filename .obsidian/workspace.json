@@ -16,14 +16,12 @@
                 "id": "d42df840aabceb50",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Sans titre.canvas",
-                    "viewState": {
-                      "x": 3025.9615836792755,
-                      "y": 53.61581952732499,
-                      "zoom": -0.9724821948116384
-                    }
+                    "file": "Docs.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
                   }
                 }
               }
@@ -42,14 +40,14 @@
                   "state": {
                     "files": [
                       {
+                        "path": "Demonstrations/Cone d'acceptance.md",
+                        "content": "#Demonstration\n$$\\text{Conditions initiales }\\;\n\\boxed{\n\\begin{cases}\n    RT \\iff i_{1} &> \\arcsin \\frac{n_{2}}{n_{1}} \\\\ n_{0}\\sin (\\theta_{0}) &= n_{1}\\sin (\\theta_{1}) \\\\ \\theta_{1}=\\frac{\\pi}{2}-i_{1}\n\\end{cases}}$$\n$$\\begin{align*} \\\\\\\\\n\n\\theta_{1} &< \\frac{\\pi}{2}-\\arcsin \\frac{n_{2}}{n_{1}}\\\\\n\\sin(\\theta_{1}) &< \\sin\\left( \\frac{\\pi}{2} - \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) \\tag*{* {(1) Formule : }$\\sin\\left( \\frac{\\pi}{2}-\\alpha \\right) = \\cos(\\alpha)$}\\\\\\\\\n\n\\sin(\\theta_{1}) &< \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) &\\tag*{{* (2) Parce que : }$\\sin(\\theta_{1}) = \\frac{n_{0}}{n_{1}}\\sin(\\theta_{0})$}\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{0}} \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) &\\tag*{{* (3) }$\\cos(x) = \\sqrt{ 1-\\sin{^2}(x) }$} \\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{2}} \\cdot \\sqrt{ 1-\\sin^{2}\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) }\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{0}} \\cdot \\sqrt{ 1-\\left( \\frac{n_{2}}{n_{1}} \\right)^2 }\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{1}{n_{0}} \\cdot \\sqrt{ n_{1}{^2}-n_{2}{^2} }\\\\\\\\\n\n\\theta_{0} &< \\arcsin\\left( \\frac{\\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \\right)\\\\\\\\\n\n&= \\theta_{0,lim}\n\\end{align*}$$\n$$\\boxed{\\theta_{0,lim} = \\arcsin\\left( \\frac{\\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \\right)}$$\n\nSi $\\theta_{0} < \\theta_{0,lim}$ RT en I, rayon guidé\nSi $\\theta_{0} > \\theta_{0,lim}$ RT transmis dans le milieu\n___\n$(2) :$\n$$\\begin{align}\n\\sin(\\theta_{1}) & = \\frac{n_{0}}{n_{1}}\\sin(\\theta_{0})  \\\\\n\\sin(\\theta_{0}) &= \\frac{n_{0}}{n_{1}} \\;\\sin(\\theta_{1})\n\\end{align}\n\\;\\;\\;\\;\n\\text{avec } \\sin(\\theta_{1}) = \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right)$$\n___\n$(3) :$\n$$\\begin{align}\n\\sin^{2}(x)+\\cos^{2}(x) & = 1 \\\\\n\\cos^{2}(x) &= 1-\\sin^{2}(x) \\\\\n\\cos(x) & = \\sqrt{ 1-\\sin^{2}(x) }\n\n\\end{align}$$\n___\n#Chap1_Optique ",
+                        "title": "Cone d'acceptance"
+                      },
+                      {
                         "path": "Formules/Angle I limite.md",
                         "content": "#Angle_I_limite\n\n## $$\\boxed{i_{lim}= \\arcsin( \\frac{n_{1}}{n_{2}}) }$$\n\n$i_{lim}$ #angle\n\n$n_{1}/n_{2} : \\text{indice optique du milieu initial } n_{1} \\text{ et du milieu d'arrivée } n_{2}$ #indice_de_réfraction \n___\n#Chap1_Optique ",
                         "title": "Angle I limite"
-                      },
-                      {
-                        "path": "Formules/Cone d'acceptance.md",
-                        "content": "#Demonstration\n$$\\text{Conditions initiales }\\;\n\\boxed{\n\\begin{cases}\n    RT \\iff i_{1} &> \\arcsin \\frac{n_{2}}{n_{1}} \\\\ n_{0}\\sin (\\theta_{0}) &= n_{1}\\sin (\\theta_{1}) \\\\ \\theta_{1}=\\frac{\\pi}{2}-i_{1}\n\\end{cases}}$$\n$$\\begin{align*} \\\\\\\\\n\n\\theta_{1} &< \\frac{\\pi}{2}-\\arcsin \\frac{n_{2}}{n_{1}}\\\\\n\\sin(\\theta_{1}) &< \\sin\\left( \\frac{\\pi}{2} - \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) \\tag*{* {(1) Formule : }$\\sin\\left( \\frac{\\pi}{2}-\\alpha \\right) = \\cos(\\alpha)$}\\\\\\\\\n\n\\sin(\\theta_{1}) &< \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) &\\tag*{{* (2) Parce que : }$\\sin(\\theta_{1}) = \\frac{n_{0}}{n_{1}}\\sin(\\theta_{0})$}\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{0}} \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) &\\tag*{{* (3) }$\\cos(x) = \\sqrt{ 1-\\sin{^2}(x) }$} \\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{2}} \\cdot \\sqrt{ 1-\\sin^{2}\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right) }\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{n_{1}}{n_{0}} \\cdot \\sqrt{ 1-\\left( \\frac{n_{2}}{n_{1}} \\right)^2 }\\\\\\\\\n\n\\sin(\\theta_{0}) &< \\frac{1}{n_{0}} \\cdot \\sqrt{ n_{1}{^2}-n_{2}{^2} }\\\\\\\\\n\n\\theta_{0} &< \\arcsin\\left( \\frac{\\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \\right)\\\\\\\\\n\n&= \\theta_{0,lim}\n\\end{align*}$$\n$$\\boxed{\\theta_{0,lim} = \\arcsin\\left( \\frac{\\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \\right)}$$\n\nSi $\\theta_{0} < \\theta_{0,lim}$ RT en I, rayon guidé\nSi $\\theta_{0} > \\theta_{0,lim}$ RT transmis dans le milieu\n___\n$(2) :$\n$$\\begin{align}\n\\sin(\\theta_{1}) & = \\frac{n_{0}}{n_{1}}\\sin(\\theta_{0})  \\\\\n\\sin(\\theta_{0}) &= \\frac{n_{0}}{n_{1}} \\;\\sin(\\theta_{1})\n\\end{align}\n\\;\\;\\;\\;\n\\text{avec } \\sin(\\theta_{1}) = \\cos\\left( \\arcsin\\left( \\frac{n_{2}}{n_{1}} \\right) \\right)$$\n___\n$(3) :$\n$$\\begin{align}\n\\sin^{2}(x)+\\cos^{2}(x) & = 1 \\\\\n\\cos^{2}(x) &= 1-\\sin^{2}(x) \\\\\n\\cos(x) & = \\sqrt{ 1-\\sin^{2}(x) }\n\n\\end{align}$$\n___\n#Chap1_Optique ",
-                        "title": "Cone d'acceptance"
                       },
                       {
                         "path": "Formules/Energie d'un photon.md",
@@ -90,38 +88,51 @@
                   "state": {
                     "files": [
                       {
-                        "path": "Formules/Relation de Descartes (optique).md",
-                        "content": "Par rapport au centre optique\n\n# $$\\boxed{\\frac{1}{\\overline{OA'}} - \\frac{1}{\\overline{OA}} = \\frac{1}{f'}}$$\n\ndonc \n\n# $$\\boxed{\\gamma =\\; \\frac{\\overline{A'B'}}{\\overline{AB}} \\;=\\; \\frac{\\overline{OA'}}{\\overline{OA}}}$$ \n$\\gamma = \\text{grandissement }$#Grandissement \n\net\n# $$\\boxed{\\overline{OA'} =\\; \\frac{f'\\cdot\\overline{OA}}{f'\\cdot\\overline{OA}}}$$ \n\n___\n#Chap2_Optique_Formation_Des_Images ",
-                        "title": "$$\\boxed{\\frac{1}{\\overline{OA'}} - \\frac{1}{\\overline{OA}} = \\frac{1}{f'}}$$"
-                      },
-                      {
                         "path": "Formules/Formule de conjugaison (optique).md",
                         "content": "# $$\\boxed{\\overline{FA} \\times \\overline{FA} = -(f')^{2}}$$\n\n___\n#Chap2_Optique_Formation_Des_Images ",
                         "title": "$$\\boxed{\\overline{FA} \\times \\overline{FA} = -(f')^{2}}$$"
                       },
                       {
-                        "path": "Modélisation Lentille Convergent ( LC ).md",
-                        "content": "![[Pasted image 20230923155122.png]]\n\n___\n#Chap2_Optique_Formation_Des_Images ",
-                        "title": "Modélisation Lentille Convergent ( LC )"
-                      },
-                      {
-                        "path": "Modélisation Lentille Divergent ( LD ).md",
-                        "content": "![[Pasted image 20230923155144.png]]\n\n___\n#Chap2_Optique_Formation_Des_Images ",
-                        "title": "Modélisation Lentille Divergent ( LD )"
+                        "path": "Formules/Relation de Descartes (optique).md",
+                        "content": "Par rapport au centre optique\n\n# $$\\boxed{\\frac{1}{\\overline{OA'}} - \\frac{1}{\\overline{OA}} = \\frac{1}{f'}}$$\n\ndonc \n\n# $$\\boxed{\\gamma =\\; \\frac{\\overline{A'B'}}{\\overline{AB}} \\;=\\; \\frac{\\overline{OA'}}{\\overline{OA}}}$$ \n$\\gamma = \\text{grandissement }$#Grandissement \n\net\n# $$\\boxed{\\overline{OA'} =\\; \\frac{f'\\cdot\\overline{OA}}{f'\\cdot\\overline{OA}}}$$ \n\n___\n#Chap2_Optique_Formation_Des_Images ",
+                        "title": "$$\\boxed{\\frac{1}{\\overline{OA'}} - \\frac{1}{\\overline{OA}} = \\frac{1}{f'}}$$"
                       },
                       {
                         "path": "Formules/Vergence d'une lentille.md",
                         "content": "## $$\\boxed{V = \\frac{1}{f'}}$$\n\n$V = \\text{vergence en dioptries } (\\delta)$ #Vergence #Dioptries\n\n$f' = \\overline{OF'} \\text{ : C'est la distance focale image ( qui est égale à la distance focale )}$\n\n$$\\boxed{\n\\begin{cases}\nf' > 0 &: &\\text{lentille mince convergente} \\\\ \\\\\n\nf' < 0 &: &\\text{lentille mince divergente}\n\\end{cases}}$$\n\n___\n#Chap2_Optique_Formation_Des_Images ",
                         "title": "Vergence d'une lentille"
+                      },
+                      {
+                        "path": "Modelisations/Modélisation Lentille Convergent ( LC ).md",
+                        "content": "![[Pasted image 20230923155122.png]]\n\n___\n#Chap2_Optique_Formation_Des_Images ",
+                        "title": "Modélisation Lentille Convergent ( LC )"
+                      },
+                      {
+                        "path": "Modelisations/Modélisation Lentille Divergent ( LD ).md",
+                        "content": "![[Pasted image 20230923155144.png]]\n\n___\n#Chap2_Optique_Formation_Des_Images ",
+                        "title": "Modélisation Lentille Divergent ( LD )"
                       }
                     ],
                     "title": "",
                     "tagPath": "Chap2_Optique_Formation_Des_Images"
                   }
                 }
+              },
+              {
+                "id": "c531e791ed6b61e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Docs.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -198,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230923165141.png",
+                "file": "Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230923165141.png",
+                "file": "Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230923165141.png"
+                "file": "Docs.md"
               }
             }
           },
@@ -267,27 +278,31 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d42df840aabceb50",
+  "active": "c531e791ed6b61e4",
   "lastOpenFiles": [
-    "Pasted image 20230923165141.png",
+    "USI.md",
+    "Formules/Energie d'un photon.md",
+    "Formules/Dispersion intermodale.md",
+    "Docs.md",
+    "Cartes Mentales/Optique.canvas",
+    "Modelisations",
+    "Demonstrations",
+    "Cartes Mentales",
+    "Images/Pasted image 20230923165141.png",
     "Formules/Sans titre.md",
-    "Sans titre.canvas",
     "Formules/Réflexion totale.md",
-    "Formules/Cone d'acceptance.md",
+    "Demonstrations/Cone d'acceptance.md",
     "Formules/Loi de Snell-Descartes.md",
     "Formules/Grandissement.md",
     "Formules/Formule de conjugaison (optique).md",
-    "Formules/Energie d'un photon.md",
-    "Formules/Dispersion intermodale.md",
     "Formules/Relation de Descartes (optique).md",
-    "USI.md",
     "Formules/Longueur d'onde.md",
     "Formules/Angle I limite.md",
     "Formules/Vergence d'une lentille.md",
     "Images/Pasted image 20230923153517.png",
     "Images",
-    "Modélisation Lentille Divergent ( LD ).md",
-    "Modélisation Lentille Convergent ( LC ).md",
+    "Modelisations/Modélisation Lentille Divergent ( LD ).md",
+    "Modelisations/Modélisation Lentille Convergent ( LC ).md",
     "Images/Pasted image 20230923155144.png",
     "Images/Pasted image 20230923155122.png",
     "Images/Pasted image 20230923154248.png",
@@ -299,7 +314,6 @@
     "Formules/Indice de réfraction.md",
     "Untitled.md",
     "README.md",
-    "Docs.md",
     "Formules"
   ]
 }
