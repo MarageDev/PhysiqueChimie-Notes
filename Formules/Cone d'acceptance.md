@@ -6,7 +6,7 @@ $$\text{Conditions initiales}
 $$\begin{align*} \\\\
 
 \theta_{1} &< \frac{\pi}{2}-\arcsin \frac{n_{2}}{n_{1}}\\
-\sin(\theta_{1}) &< \sin\left( \frac{\pi}{2} - \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) \tag*{{}}\\\\
+\sin(\theta_{1}) &< \sin\left( \frac{\pi}{2} - \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) \tag*{{Formule : }$\sin\left( \frac{\pi}{2}-\alpha \right) = \cos(\alpha) dow$}\\\\
 
 \sin(\theta_{1}) &< \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) & &\tag*{{Parce que : }$\sin(\theta_{1}) = \frac{n_{0}}{n_{1}}\sin(\theta_{0})$}\\\\
 
