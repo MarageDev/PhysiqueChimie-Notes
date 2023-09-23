@@ -17,7 +17,7 @@ $$\begin{align*} \\\\
 
 \sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \cdot \sqrt{ 1-\left( \frac{n_{2}}{n_{1}} \right)^2 }\\\\
 
-\sin(\theta_{0}) & < \underbrace{ \frac{1}{n_{0}} \cdot \sqrt{ n_{1}{^2}-n_{2}{^2} }_{ = \frac{1}{n_{0}}\cdot \sqrt{ n_{1} } } }\\\\
+\sin(\theta_{0}) & < \underbrace{ \frac{1}{n_{0}} \cdot \sqrt{ n_{1}{^2}-n_{2}{^2} }_{=\frac{1}{n_{0}}\cdot \sqrt{ n_{1}^{^2}-\frac{\cancel{ n_{1}^{^2} }\cdot n_{2}^{^2}}{\cancel{ n_{1}^{^2} }} } } }\\\\
 
 \theta_{0} & < \arcsin\left( \frac{\sqrt{ n_{1}{^2}-n_{2}{^2} }}{n_{0}} \right)\\\\
 
