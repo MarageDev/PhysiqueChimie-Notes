@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Angle I limite.md",
+                    "file": "Formules/Réflexion totale.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -51,6 +51,11 @@
                   "type": "tagfolder-view-scroll",
                   "state": {
                     "files": [
+                      {
+                        "path": "Formules/Angle I limite.md",
+                        "content": "#Angle_I_limite\n\n## $$\\boxed{i_{lim}= \\arcsin( \\frac{n_{1}}{n_{2}}) }$$\n\n$i_{lim}$ #angle\n\n$n_{1}/n_{2} : \\text{indice optique du milieu initial } n_{1} \\text{ et du milieu d'arrivée } n_{2}$ #indice_de_réfraction \n___\n#Chap1_Optique ",
+                        "title": "Angle I limite"
+                      },
                       {
                         "path": "Formules/Cone d'acceptance.md",
                         "content": "___\n#Chap1_Optique ",
@@ -75,6 +80,11 @@
                         "path": "Formules/Longueur d'onde.md",
                         "content": "## $$\\boxed{\\lambda = \\frac{c}{\\nu} }$$\n\n$\\lambda \\text{ en m}$ #Joule #eV\n\n$c = \\text{vitesse de la lumière }$ #C_vitesse_de_la_lumière \n\n$\\nu = \\text{fréquence du photon en Hz}$ #Fréquence\n\n___\n#Chap1_Optique ",
                         "title": "Longueur d'onde"
+                      },
+                      {
+                        "path": "Formules/Réflexion totale.md",
+                        "content": "\n## $$\\boxed{RT \\iff i_{1} < i_{lim} }$$\n___\n#Chap1_Optique ",
+                        "title": "Réflexion totale"
                       }
                     ],
                     "title": "",
@@ -88,7 +98,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Angle I limite.md",
+                    "file": "Formules/Réflexion totale.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -173,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Angle I limite.md",
+                "file": "Formules/Réflexion totale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Angle I limite.md",
+                "file": "Formules/Réflexion totale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Angle I limite.md"
+                "file": "Formules/Réflexion totale.md"
               }
             }
           },
@@ -244,13 +254,14 @@
   },
   "active": "e3ad9ac8a6e6b386",
   "lastOpenFiles": [
-    "Formules/Indice de réfraction.md",
     "Formules/Angle I limite.md",
+    "USI.md",
+    "Formules/Réflexion totale.md",
     "Formules/Longueur d'onde.md",
     "Formules/Loi de Snell-Descartes.md",
+    "Formules/Indice de réfraction.md",
     "Formules/Energie d'un photon.md",
     "Formules/Cone d'acceptance.md",
-    "USI.md",
     "Untitled.md",
     "README.md",
     "Docs.md",
