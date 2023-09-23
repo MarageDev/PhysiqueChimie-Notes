@@ -10,7 +10,7 @@
           {
             "id": "a028cf4e1b6c202f",
             "type": "tabs",
-            "dimension": 45.86538461538461,
+            "dimension": 80.76923076923077,
             "children": [
               {
                 "id": "94d867b21f56999f",
@@ -29,35 +29,17 @@
                 "id": "e3ad9ac8a6e6b386",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Angle I limite.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "50198c4090ff814f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Cone d'acceptance.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "06d74ee70bef792d",
             "type": "tabs",
-            "dimension": 54.13461538461538,
+            "dimension": 19.230769230769234,
             "children": [
               {
                 "id": "1822b4d4ee1639e9",
@@ -193,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Cone d'acceptance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +191,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Cone d'acceptance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Formules/Cone d'acceptance.md"
-              }
+              "state": {}
             }
           },
           {
@@ -262,25 +240,26 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "50198c4090ff814f",
+  "active": "e3ad9ac8a6e6b386",
   "lastOpenFiles": [
+    "Images/Pasted image 20230923153517.png",
+    "USI.md",
+    "Images",
+    "Modélisation Lentille Divergent ( LD ).md",
+    "Modélisation Lentille Convergent ( LC ).md",
+    "Formules/Cone d'acceptance.md",
     "Formules/Dispersion intermodale.md",
     "Formules/Energie d'un photon.md",
-    "Modélisation Lentille Divergent ( LD ).md",
-    "Pasted image 20230923155144.png",
-    "Modélisation Lentille Convergent ( LC ).md",
-    "Pasted image 20230923155122.png",
-    "Pasted image 20230923154248.png",
+    "Images/Pasted image 20230923155144.png",
+    "Images/Pasted image 20230923155122.png",
+    "Images/Pasted image 20230923154248.png",
     "Formules/Angle I limite.md",
-    "Pasted image 20230923153517.png",
     "Pasted image 20230923153354.png",
     "Formules/Grandissement.md",
     "Pasted image 20230923153413.png",
     "Pasted image 20230923153459.png",
     "Pasted image 20230923153450.png",
     "Pasted image 20230923153432.png",
-    "Formules/Cone d'acceptance.md",
-    "USI.md",
     "Formules/Réflexion totale.md",
     "Formules/Loi de Snell-Descartes.md",
     "Formules/Longueur d'onde.md",

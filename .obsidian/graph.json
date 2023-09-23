@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
@@ -12,6 +12,13 @@
       "color": {
         "a": 1,
         "rgb": 5405920
+      }
+    },
+    {
+      "query": "tag:#Chap2_Optique_Formation_Des_Images  ",
+      "color": {
+        "a": 1,
+        "rgb": 8031672
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 9.375,
   "linkStrength": 0,
   "linkDistance": 275,
-  "scale": 0.7132754626224428,
-  "close": false
+  "scale": 0.3628873693012127,
+  "close": true
 }
