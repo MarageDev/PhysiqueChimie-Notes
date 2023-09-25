@@ -1,6 +1,6 @@
 #Angle_I_limite
 
-## $$\boxed{i_{lim}= \arcsin( \frac{n_{1}}{n_{2}}) }$$
+## $$\boxed{i_{lim}= \arcsin( \frac{n_{2}}{n_{1}}) }$$
 
 $i_{lim}$ #angle
 

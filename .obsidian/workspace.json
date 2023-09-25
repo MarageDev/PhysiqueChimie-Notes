@@ -11,14 +11,12 @@
             "id": "d42df840aabceb50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
-                "viewState": {
-                  "x": -180,
-                  "y": 920,
-                  "zoom": 0
-                }
+                "file": "Formules/Angle I limite.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
+                "file": "Formules/Angle I limite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
+                "file": "Formules/Angle I limite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas"
+                "file": "Formules/Angle I limite.md"
               }
             }
           },
@@ -177,11 +175,11 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
+    "Demonstrations/Cone d'acceptance.md",
+    "Cartes Mentales/Optique.canvas",
     "Unités USI/Unités USI.pdf",
     "Formules/Angle I limite.md",
     "Cartes Mentales/Dimensions.canvas",
-    "Demonstrations/Cone d'acceptance.md",
-    "Cartes Mentales/Optique.canvas",
     "Unités USI/Annotations.md",
     "Unités USI",
     "USI.md",

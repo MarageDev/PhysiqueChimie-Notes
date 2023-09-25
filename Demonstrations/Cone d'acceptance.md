@@ -2,7 +2,9 @@
 $$\text{Conditions initiales }\;
 \boxed{
 \begin{cases}
-    RT \iff i_{1} &> \arcsin \frac{n_{2}}{n_{1}} \\ n_{0}\sin (\theta_{0}) &= n_{1}\sin (\theta_{1}) \\ \theta_{1}=\frac{\pi}{2}-i_{1}
+    RT \;\text{ ssi }\; i_{1} &>\; \arcsin \frac{n_{2}}{n_{1}} \\
+ n_{0}\sin (\theta_{0}) &=\; n_{1}\sin (\theta_{1}) \\
+\theta_{1}&=\;\frac{\pi}{2}-i_{1}
 \end{cases}}$$
 $$\begin{align*} \\\\
 
@@ -13,7 +15,7 @@ $$\begin{align*} \\\\
 
 \sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \underbrace{ \cos\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) }_{ > \; 0 } &\tag*{{* (3) }$\cos(x) = \sqrt{ 1-\sin{^2}(x) }$} \\\\
 
-\sin(\theta_{0}) &< \frac{n_{1}}{n_{2}} \cdot \sqrt{ 1-\sin^{2}\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) }\\\\
+\sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \cdot \sqrt{ 1-\sin^{2}\left( \arcsin\left( \frac{n_{2}}{n_{1}} \right) \right) }\\\\
 
 \sin(\theta_{0}) &< \frac{n_{1}}{n_{0}} \cdot \sqrt{ 1-\left( \frac{n_{2}}{n_{1}} \right)^2 }\\\\
 
