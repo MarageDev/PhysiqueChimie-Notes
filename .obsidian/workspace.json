@@ -11,12 +11,14 @@
             "id": "d42df840aabceb50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Formules/Angle I limite.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Cartes Mentales/Optique.canvas",
+                "viewState": {
+                  "x": 698.0676792358466,
+                  "y": 32.85783106588946,
+                  "zoom": -0.9628975723675355
+                }
               }
             }
           },
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Angle I limite.md",
+                "file": "Cartes Mentales/Optique.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Angle I limite.md",
+                "file": "Cartes Mentales/Optique.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Angle I limite.md"
+                "file": "Cartes Mentales/Optique.canvas"
               }
             }
           },
@@ -175,11 +177,13 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
+    "Cartes Mentales/Dimensions.canvas",
+    "Images/Pasted image 20230923155144.png",
+    "Formules/Angle I limite.md",
+    "Pasted image 20230925190952.png",
     "Demonstrations/Cone d'acceptance.md",
     "Cartes Mentales/Optique.canvas",
     "Unités USI/Unités USI.pdf",
-    "Formules/Angle I limite.md",
-    "Cartes Mentales/Dimensions.canvas",
     "Unités USI/Annotations.md",
     "Unités USI",
     "USI.md",
@@ -203,14 +207,12 @@
     "Images",
     "Modelisations/Modélisation Lentille Divergent ( LD ).md",
     "Modelisations/Modélisation Lentille Convergent ( LC ).md",
-    "Images/Pasted image 20230923155144.png",
     "Images/Pasted image 20230923155122.png",
     "Images/Pasted image 20230923154248.png",
     "Pasted image 20230923153354.png",
     "Pasted image 20230923153413.png",
     "Pasted image 20230923153459.png",
     "Pasted image 20230923153450.png",
-    "Pasted image 20230923153432.png",
     "Formules/Indice de réfraction.md",
     "Untitled.md",
     "Formules"

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"ecccf9294086caa7","type":"file","file":"Formules/Réflexion totale.md","x":400,"y":720,"width":720,"height":400,"color":"1"},
-		{"id":"c2f970b3d0b8cc62","type":"file","file":"Formules/Angle I limite.md","x":-430,"y":720,"width":500,"height":400},
+		{"id":"c2f970b3d0b8cc62","type":"file","file":"Formules/Angle I limite.md","x":-430,"y":720,"width":500,"height":740},
 		{"id":"81bcc7dd597b63aa","type":"file","file":"Demonstrations/Cone d'acceptance.md","x":560,"y":1280,"width":400,"height":400,"color":"6"},
 		{"id":"3881ff0d5ef1ca95","type":"file","file":"Formules/Loi de Snell-Descartes.md","x":1320,"y":720,"width":400,"height":400},
 		{"id":"57de860be0817f99","type":"file","file":"Formules/Indice de réfraction.md","x":540,"y":160,"width":440,"height":400},
