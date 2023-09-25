@@ -11,9 +11,14 @@
             "id": "d42df840aabceb50",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Unités USI/Unités USI.pdf"
+                "file": "Cartes Mentales/Optique.canvas",
+                "viewState": {
+                  "x": -180,
+                  "y": 920,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -101,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unités USI/Unités USI.pdf",
+                "file": "Cartes Mentales/Optique.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unités USI/Unités USI.pdf",
+                "file": "Cartes Mentales/Optique.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unités USI/Unités USI.pdf"
+                "file": "Cartes Mentales/Optique.canvas"
               }
             }
           },
@@ -172,11 +177,11 @@
   },
   "active": "d42df840aabceb50",
   "lastOpenFiles": [
+    "Unités USI/Unités USI.pdf",
     "Formules/Angle I limite.md",
     "Cartes Mentales/Dimensions.canvas",
     "Demonstrations/Cone d'acceptance.md",
     "Cartes Mentales/Optique.canvas",
-    "Unités USI/Unités USI.pdf",
     "Unités USI/Annotations.md",
     "Unités USI",
     "USI.md",
