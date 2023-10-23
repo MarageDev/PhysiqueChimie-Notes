@@ -22,7 +22,7 @@ $$ 1\;J = 1\;kg \cdot m^{2} \cdot s^{-2}$$
 ___
 # Electron Volt #eV
 $$\large \boxed{[eV] = [J] = [M] \cdot[L]^{2} \cdot [T]^{-2}}$$
-$1eV = 1.602 176 634 \times 10^{−19}\;J$
+$1eV = 1e \cdot 1V = 1.602 176 634 \times 10^{−19}\;J$
 ___
 # Constante de Plank #C_de_plank 
 $$\large \boxed{[h] =  [M] \cdot [L]^{2} \cdot [T]^{-1}}$$
@@ -55,6 +55,7 @@ $$\large \boxed{[\delta] = [L]^{-1}}$$
 ___
 # Charge élémentaire #Charge_élémentaire 
 Ca sert à exprimer la vergence d'une lentille #Vergence 
-$$\large \boxed{[e] = [L]^{-1}}$$
+$$\large \boxed{[e] = [A]\cdot[T]}$$
+$e = 1.602\cdot 10^{-19} \; C$
 ___
 #Chap0_Dimensions
