@@ -53,4 +53,8 @@ ___
 Ca sert à exprimer la vergence d'une lentille #Vergence 
 $$\large \boxed{[\delta] = [L]^{-1}}$$
 ___
+# Charge élémentaire #Charge_élémentaire 
+Ca sert à exprimer la vergence d'une lentille #Vergence 
+$$\large \boxed{[e] = [L]^{-1}}$$
+___
 #Chap0_Dimensions

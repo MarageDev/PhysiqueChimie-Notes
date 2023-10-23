@@ -5,3 +5,6 @@ $\frac{dq}{dt}\; = \text{la charge qui passe à travers S pendant un temps donn�
 ![[Pasted image 20231023135317.png]]
 ## Mesure
 L'intensité électrique se mesure en série à l'aide d'un ampèremètre 
+![[Pasted image 20231023135937.png]]
+___
+#Chap4_Bases_Electrocinétique
