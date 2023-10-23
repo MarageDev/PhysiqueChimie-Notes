@@ -4,6 +4,6 @@ $P = \text{Puissance reçue ( P > 0 en convention récepteur ) ou délivrée ( P
 
 $i = \text{intensité du courant arrivant aux bornes du dipole (A)}$  #Intensité_électrique 
 
-$U_{AB} = \text{Tension électrique aux bornes }$  # qqch
+$U_{AB} = \text{Tension électrique aux bornes du dipole (V)}$ #Tension_électrique
 ___
 #Chap4_Bases_Electrocinétique 
