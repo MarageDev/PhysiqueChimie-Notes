@@ -1,3 +1,4 @@
+#Intensité_électrique
 ## $$\boxed{i = \frac{dq}{dt}}$$
 $i \text{ = Intensité du courant  en Ampères (A)}$
 $\frac{dq}{dt}\; = \text{la charge qui passe à travers S pendant un temps donné}$ #charge_électrique
