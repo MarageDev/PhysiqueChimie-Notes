@@ -4,49 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "24278c6bf9e2461a",
-        "type": "tabs",
+        "id": "a2b218cb70fee31f",
+        "type": "split",
         "children": [
           {
-            "id": "d42df840aabceb50",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cartes Mentales/Optique.canvas",
-                "viewState": {
-                  "x": 698.0676792358466,
-                  "y": 32.85783106588946,
-                  "zoom": -0.9628975723675355
+            "id": "24278c6bf9e2461a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d42df840aabceb50",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Cartes Mentales/Optique.canvas",
+                    "viewState": {
+                      "x": 698.0676792358466,
+                      "y": 32.85783106588946,
+                      "zoom": -0.9628975723675355
+                    }
+                  }
+                }
+              },
+              {
+                "id": "13d2a0e343804c34",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formules/Intensité électrique.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
                 }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "13d2a0e343804c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formules/Intensité électrique.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "e19865ddea54f326",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eed7852901f9ea39",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formules/Intensité électrique.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "c531e791ed6b61e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Unités USI/Unités USI.pdf"
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -191,20 +207,22 @@
   },
   "active": "13d2a0e343804c34",
   "lastOpenFiles": [
-    "Pasted image 20231023135317.png",
-    "Formules/Loi de Snell-Descartes.md",
+    "Formules/Intensité électrique.md",
+    "Formules/Angle I limite.md",
+    "Formules/Vergence d'une lentille.md",
+    "Formules/Formule de conjugaison (optique).md",
+    "Formules/Dispersion intermodale.md",
     "Formules/Longueur d'onde.md",
+    "Formules/Réflexion totale.md",
+    "Formules/Loi de Snell-Descartes.md",
+    "Pasted image 20231023135317.png",
     "Pasted image 20231023135020.png",
     "Formules/Sans titre.md",
-    "Formules/Réflexion totale.md",
     "Formules/Relation de Descartes (optique).md",
     "Formules/Grandissement.md",
     "Formules/Indice de réfraction.md",
-    "Formules/Intensité électrique.md",
-    "Formules/Formule de conjugaison (optique).md",
     "Formules/Energie d'un photon.md",
     "Pasted image 20230925190952.png",
-    "Formules/Angle I limite.md",
     "Cartes Mentales/Dimensions.canvas",
     "Images/Pasted image 20230923155144.png",
     "Demonstrations/Cone d'acceptance.md",
@@ -215,12 +233,10 @@
     "USI.md",
     "Docs.md",
     "README.md",
-    "Formules/Dispersion intermodale.md",
     "Modelisations",
     "Demonstrations",
     "Cartes Mentales",
     "Images/Pasted image 20230923165141.png",
-    "Formules/Vergence d'une lentille.md",
     "Images/Pasted image 20230923153517.png",
     "Images",
     "Modelisations/Modélisation Lentille Divergent ( LD ).md",
@@ -229,7 +245,6 @@
     "Images/Pasted image 20230923154248.png",
     "Pasted image 20230923153354.png",
     "Pasted image 20230923153413.png",
-    "Pasted image 20230923153459.png",
     "Untitled.md",
     "Formules"
   ]
