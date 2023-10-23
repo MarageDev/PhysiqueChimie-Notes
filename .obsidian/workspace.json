@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "13d2a0e343804c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formules/Intensité électrique.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c531e791ed6b61e4",
             "type": "leaf",
             "state": {
@@ -32,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
+                "file": "Formules/Intensité électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas",
+                "file": "Formules/Intensité électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartes Mentales/Optique.canvas"
+                "file": "Formules/Intensité électrique.md"
               }
             }
           },
@@ -175,12 +189,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d42df840aabceb50",
+  "active": "13d2a0e343804c34",
   "lastOpenFiles": [
+    "Formules/Loi de Snell-Descartes.md",
+    "Formules/Intensité électrique.md",
+    "Formules/Grandissement.md",
+    "Formules/Formule de conjugaison (optique).md",
+    "Formules/Energie d'un photon.md",
+    "Formules/Longueur d'onde.md",
+    "Pasted image 20230925190952.png",
+    "Formules/Angle I limite.md",
     "Cartes Mentales/Dimensions.canvas",
     "Images/Pasted image 20230923155144.png",
-    "Formules/Angle I limite.md",
-    "Pasted image 20230925190952.png",
     "Demonstrations/Cone d'acceptance.md",
     "Cartes Mentales/Optique.canvas",
     "Unités USI/Unités USI.pdf",
@@ -189,7 +209,6 @@
     "USI.md",
     "Docs.md",
     "README.md",
-    "Formules/Energie d'un photon.md",
     "Formules/Dispersion intermodale.md",
     "Modelisations",
     "Demonstrations",
@@ -197,11 +216,7 @@
     "Images/Pasted image 20230923165141.png",
     "Formules/Sans titre.md",
     "Formules/Réflexion totale.md",
-    "Formules/Loi de Snell-Descartes.md",
-    "Formules/Grandissement.md",
-    "Formules/Formule de conjugaison (optique).md",
     "Formules/Relation de Descartes (optique).md",
-    "Formules/Longueur d'onde.md",
     "Formules/Vergence d'une lentille.md",
     "Images/Pasted image 20230923153517.png",
     "Images",
