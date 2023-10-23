@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Intensité électrique.md",
+                    "file": "Docs.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Puissance Electrique.md",
+                    "file": "Formules/Lois de Kirchhoff.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -97,9 +97,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "fb36aa3a263273f3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formules/Lois de Kirchhoff.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Puissance Electrique.md",
+                "file": "Formules/Lois de Kirchhoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Puissance Electrique.md",
+                "file": "Formules/Lois de Kirchhoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Puissance Electrique.md"
+                "file": "Formules/Lois de Kirchhoff.md"
               }
             }
           },
@@ -245,13 +258,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f8631d3f474b3e83",
+  "active": "fb36aa3a263273f3",
   "lastOpenFiles": [
+    "Docs.md",
     "Formules/Intensité électrique.md",
+    "Formules/Puissance Electrique.md",
+    "Formules/Lois de Kirchhoff.md",
+    "Pasted image 20231023142009.png",
     "Formules/Indice de réfraction.md",
     "Formules/Angle I limite.md",
-    "Formules/Puissance Electrique.md",
-    "Docs.md",
     "USI.md",
     "README.md",
     "Unités USI/Unités USI.pdf",
@@ -285,7 +300,6 @@
     "Modelisations/Modélisation Lentille Convergent ( LC ).md",
     "Images/Pasted image 20230923155122.png",
     "Images/Pasted image 20230923154248.png",
-    "Pasted image 20230923153354.png",
     "Untitled.md",
     "Formules"
   ]
