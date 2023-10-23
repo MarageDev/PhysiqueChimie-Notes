@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Lois des noeuds.md",
+                    "file": "Formules/Loi des mailles.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Lois des noeuds.md",
+                "file": "Formules/Loi des mailles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Lois des noeuds.md",
+                "file": "Formules/Loi des mailles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Lois des noeuds.md"
+                "file": "Formules/Loi des mailles.md"
               }
             }
           },
@@ -260,13 +260,14 @@
   },
   "active": "f8631d3f474b3e83",
   "lastOpenFiles": [
+    "Formules/Lois des noeuds.md",
+    "Formules/Loi des mailles.md",
     "Pasted image 20231023143903.png",
     "Pasted image 20231023143633.png",
     "Pasted image 20231023143242.png",
     "Docs.md",
     "Formules/Intensité électrique.md",
     "Formules/Puissance Electrique.md",
-    "Formules/Lois des noeuds.md",
     "Pasted image 20231023142009.png",
     "Formules/Indice de réfraction.md",
     "Formules/Angle I limite.md",
@@ -297,7 +298,6 @@
     "Demonstrations",
     "Cartes Mentales",
     "Images/Pasted image 20230923165141.png",
-    "Images/Pasted image 20230923153517.png",
     "Images",
     "Modelisations/Modélisation Lentille Divergent ( LD ).md",
     "Modelisations/Modélisation Lentille Convergent ( LC ).md",
