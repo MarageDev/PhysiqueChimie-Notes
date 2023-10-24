@@ -7,5 +7,11 @@ Dans une maille d'un circuit électrique :
 ___
 ### Exemple
 ![[Pasted image 20231024164642.png]]
-$E - U_{1} = 0$
-$$
+$$\text{On a donc le système suivant :}\begin{cases}
+E - U_{1} = 0 \\ \\
+U_{1} - U_{2} - U_{3} = 0
+\end{cases}$$
+Donc l'équation du circuit est :
+$$\begin{align}
+E - U_{2} - U_{3}
+\end{align}$$
