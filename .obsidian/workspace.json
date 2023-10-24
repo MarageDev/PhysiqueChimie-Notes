@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Loi des mailles.md",
+                    "file": "Formules/Lois des noeuds.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -61,7 +61,7 @@
                     "file": "Formules/Loi des mailles.md",
                     "mode": "source",
                     "backlinks": true,
-                    "source": false
+                    "source": true
                   }
                 }
               }
@@ -118,6 +118,19 @@
                   "type": "markdown",
                   "state": {
                     "file": "Formules/Lois des noeuds.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "85c8f31db88d3da9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formules/Loi des mailles.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": false
@@ -275,6 +288,7 @@
   "lastOpenFiles": [
     "Formules/Lois des noeuds.md",
     "Formules/Loi des mailles.md",
+    "Pasted image 20231024164642.png",
     "Pasted image 20231024164402.png",
     "Sans titre.md",
     "Sans titre",
@@ -306,7 +320,6 @@
     "Formules/Grandissement.md",
     "Formules/Energie d'un photon.md",
     "Cartes Mentales/Dimensions.canvas",
-    "Images/Pasted image 20230923155144.png",
     "Demonstrations/Cone d'acceptance.md",
     "Unités USI/Annotations.md",
     "Unités USI",
