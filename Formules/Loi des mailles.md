@@ -11,7 +11,3 @@ $$\text{On a donc le système suivant :}\begin{cases}
 \text{Maille ABEFA }(S_{1}):&E - U_{1} &= 0 \\ \\
 \text{Maille BCDEB }(S_{2}):&U_{1} - U_{2} - U_{3} &= 0
 \end{cases}$$
-Donc l'équation du circuit est :
-$$\begin{align}
-E - U_{2} - U_{3}
-\end{align}$$
