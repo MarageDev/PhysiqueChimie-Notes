@@ -51,9 +51,22 @@
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "158464a5bf22dff0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Formules/Loi des mailles.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "e19865ddea54f326",
@@ -258,10 +271,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f8631d3f474b3e83",
+  "active": "158464a5bf22dff0",
   "lastOpenFiles": [
     "Formules/Lois des noeuds.md",
+    "Sans titre.md",
     "Formules/Loi des mailles.md",
+    "Sans titre",
     "Pasted image 20231023143903.png",
     "Pasted image 20231023143633.png",
     "Pasted image 20231023143242.png",
