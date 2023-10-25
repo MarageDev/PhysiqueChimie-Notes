@@ -136,9 +136,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "4a5b5695ada5b76a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demonstrations/Oscillateur harmonique.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -284,7 +297,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "158464a5bf22dff0",
+  "active": "4a5b5695ada5b76a",
   "lastOpenFiles": [
     "Formules/Loi des mailles.md",
     "Demonstrations/Oscillateur harmonique.md",
