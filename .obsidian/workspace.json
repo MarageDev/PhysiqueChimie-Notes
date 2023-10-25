@@ -58,7 +58,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Loi des mailles.md",
+                    "file": "Demonstrations/Oscillateur harmonique.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Loi des mailles.md",
+                "file": "Demonstrations/Oscillateur harmonique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Loi des mailles.md",
+                "file": "Demonstrations/Oscillateur harmonique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Loi des mailles.md"
+                "file": "Demonstrations/Oscillateur harmonique.md"
               }
             }
           },
@@ -286,10 +286,11 @@
   },
   "active": "158464a5bf22dff0",
   "lastOpenFiles": [
+    "Formules/Loi des mailles.md",
+    "Demonstrations/Oscillateur harmonique.md",
     "Pasted image 20231024181844.png",
     "Demonstrations/Cone d'acceptance.md",
     "Formules/Lois des noeuds.md",
-    "Formules/Loi des mailles.md",
     "Formules/Energie d'un photon.md",
     "Formules/Dispersion intermodale.md",
     "Pasted image 20231024164642.png",
@@ -317,7 +318,6 @@
     "Formules/Longueur d'onde.md",
     "Formules/Réflexion totale.md",
     "Images/Pasted image 20231023135317.png",
-    "Images/Pasted image 20231023135020.png",
     "Formules/Sans titre.md",
     "Formules/Relation de Descartes (optique).md",
     "Formules/Grandissement.md",
