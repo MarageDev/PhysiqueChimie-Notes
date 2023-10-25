@@ -29,4 +29,8 @@ donc si on choisit $k=1$ : $$\boxed{T=\frac{2\pi}{\omega_{0}}} \implies \boxed{f
 # Conditions initiales
 
 - $U_{C}(0^{-}) = U_{0}\;$ or $U_{C}$ est continu donc $\;U_{C}(0^{+}) = U_{0}$
-- $t<0$, l'interrupteur est ou
+- $t<0$, l'interrupteur est ouvert donc $i(0^{-})=0$ et à cause de la bobine $i(0^{+})=0$
+
+On cherche ($A, \varphi_{c} )$
+
+#### A $t=0$ :
