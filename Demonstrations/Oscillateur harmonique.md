@@ -16,6 +16,11 @@ Il y a 3 types de solutions
 ### $$\boxed{\begin{cases}U_{C}(t) = A\cdot \cos(\omega_{0}(t)+\varphi_{c}) \\U_{C}(t) = A\cdot \sin(\omega_{0}(t)+\varphi_{s}) \\U_{C}(t) = A_{1}\cdot \sin(\omega_{0}(t))+A_{2}\cdot \cos(\omega_{0}(t))\end{cases}}$$
 $A = \text{L'amplitude du signal } \omega_{0}$
 $\varphi_{s} / \varphi_{c} = \text{Le déphasage à l'origine, ou la phase}$
+
+![[Pasted image 20231025234252.png]]
 >Remarque : $A \in \mathbb{R}\;$ et $\; \varphi_{c} \in [\;0;2\pi\;[\;$ et $\; \varphi_{s} = \varphi_{c}-\frac{\pi}{2}$
 
 >Remarque : $A^{2} = A_{1}{^2}+A_{2}{^2}$
+
+Par périodicité du cosinus, on a $U_{C}(t + T) = U_{C}(t)$ avec $t$ le temps qui sécoule et $T$ la période.
+On a donc $$\omega_{0}(T) = 2k\pi$$
