@@ -66,7 +66,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "e19865ddea54f326",
@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md",
+                "file": "Demonstrations/Cone d'acceptance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md",
+                "file": "Demonstrations/Cone d'acceptance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md"
+                "file": "Demonstrations/Cone d'acceptance.md"
               }
             }
           },
@@ -310,13 +310,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f8631d3f474b3e83",
+  "active": "158464a5bf22dff0",
   "lastOpenFiles": [
-    "Demonstrations/Cone d'acceptance.md",
     "Demonstrations/Oscillateur harmonique.md",
+    "Demonstrations/Cone d'acceptance.md",
+    "Formules/Puissance Electrique.md",
+    "Formules/Lois des noeuds.md",
     "Formules/Loi des mailles.md",
     "Pasted image 20231024181844.png",
-    "Formules/Lois des noeuds.md",
     "Formules/Energie d'un photon.md",
     "Formules/Dispersion intermodale.md",
     "Pasted image 20231024164642.png",
@@ -328,7 +329,6 @@
     "Pasted image 20231023143242.png",
     "Docs.md",
     "Formules/Intensité électrique.md",
-    "Formules/Puissance Electrique.md",
     "Pasted image 20231023142009.png",
     "Formules/Indice de réfraction.md",
     "Formules/Angle I limite.md",
