@@ -13,5 +13,7 @@ $\omega_{0}{^{2}} = \text{Pulsation propre de l'OH en } s^{-1} \text{ ou } rad\c
 
 # Résolution de l'équation différentielle
 Il y a 3 types de solutions
-### $$\boxed{\begin{cases}U_{C}(t) = A\cdot \cos(\omega_{0}(t)+\phi_{C}) \\U_{C}(t) = A\cdot \sin(\omega_{0}(t)+\phi_{S}) \\U_{C}(t) = A_{1}\cdot \sin(\omega_{0}(t))+A_{2}\cdot \cos(\omega_{0}(t))\end{cases}}$$
-> $A^{2} = A_{1}{^2}$
+### $$\boxed{\begin{cases}U_{C}(t) = A\cdot \cos(\omega_{0}(t)+\varphi_{C}) \\U_{C}(t) = A\cdot \sin(\omega_{0}(t)+\varphi_{}{S}) \\U_{C}(t) = A_{1}\cdot \sin(\omega_{0}(t))+A_{2}\cdot \cos(\omega_{0}(t))\end{cases}}$$
+>Remarque : $A \in \mathbb{R}\;$ et $\varphi_{}{C}$
+
+>Remarque : $A^{2} = A_{1}{^2}+A_{2}{^2}$
