@@ -23,4 +23,10 @@ $\varphi_{s} / \varphi_{c} = \text{Le déphasage à l'origine, ou la phase}$
 >Remarque : $A^{2} = A_{1}{^2}+A_{2}{^2}$
 
 Par périodicité du cosinus, on a $U_{C}(t + T) = U_{C}(t)$ avec $t$ le temps qui sécoule et $T$ la période.
-On a donc $$\omega_{0}(T) = 2k\pi$$
+On a donc $$\omega_{0}(T) = 2k\;\pi \;\text{ avec }\; k \in \mathbb{Z}$$
+donc si on choisit $k=1$ : $$\boxed{T=\frac{2\pi}{\omega_{0}}} \implies \boxed{f = \frac{\omega_{0}}{2\pi}}$$
+
+# Conditions initiales
+
+- $U_{C}(0^{-}) = U_{0}\;$ or $U_{C}$ est continu donc $\;U_{C}(0^{+}) = U_{0}$
+- $t<0$, l'interrupteur est ou
