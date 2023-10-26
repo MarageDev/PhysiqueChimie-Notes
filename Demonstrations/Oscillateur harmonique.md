@@ -44,4 +44,8 @@ i(t) &= -C\cdot\frac{dU_{C}}{dt}&=A\cdot \omega_{0}\cdot \sin(\omega_{0}(t)+\var
 \\
 i(0^{+})&=A\cdot\omega_{0}\sin(\varphi_{c})
 \end{align*}$$
-Ce qui nous donne le système suivan
+Ce qui nous donne le système suivant :
+$$\begin{cases}
+U_{C} &= A\cdot \cos(\varphi_{c}) \\
+i(0^{+}) &= 0 &= A\cdot\omega_{0}\sin(\varphi_{c})
+\end{cases}$$
