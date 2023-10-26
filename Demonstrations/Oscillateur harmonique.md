@@ -34,8 +34,14 @@ donc si on choisit $k=1$ : $$\boxed{T=\frac{2\pi}{\omega_{0}}} \implies \boxed{f
 On cherche ($A, \varphi_{c} )$
 
 #### A $t=0$ :
-On a $$\begin{align}
-U_{C}(0)& =A\cdot \cos(0+\varphi_{c}) &= A\cdot \cos(\varphi_{c})\\
-i(t)& = -C\cdot\frac{dU_{C}}{dt}&=A\cdot \omega_{0}\cdot \sin(\omega_{0}(t)+\varphi_{c}) \\
+On a donc pour $U_{C}$ :
+$$\begin{align*}
+U_{C}(0) &=A\cdot \cos(0+\varphi_{c}) &= A\cdot \cos(\varphi_{c})
+\end{align*}$$
+et pour $i$ :
+$$\begin{align*}
+i(t) &= -C\cdot\frac{dU_{C}}{dt}&=A\cdot \omega_{0}\cdot \sin(\omega_{0}(t)+\varphi_{c}) 
+\\
 i(0^{+})&=A\cdot\omega_{0}\sin(\varphi_{c})
-\end{align}$$
+\end{align*}$$
+Ce qui nous donne le système suivan
