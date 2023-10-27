@@ -46,10 +46,10 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Demonstrations/Oscillateur harmonique.md",
+                    "file": "Formules/Loi des mailles.md",
                     "mode": "source",
                     "backlinks": true,
-                    "source": true
+                    "source": false
                   }
                 }
               },
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md",
+                "file": "Formules/Loi des mailles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md",
+                "file": "Formules/Loi des mailles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md"
+                "file": "Formules/Loi des mailles.md"
               }
             }
           },
@@ -314,9 +314,12 @@
   },
   "active": "f8631d3f474b3e83",
   "lastOpenFiles": [
+    "USI.md",
+    "Unités USI/Unités USI.pdf",
+    "Cartes Mentales/Dimensions.canvas",
+    "Demonstrations/Oscillateur harmonique.md",
     "Pasted image 20231025234252.png",
     "Demonstrations/Cone d'acceptance.md",
-    "Demonstrations/Oscillateur harmonique.md",
     "Formules/Puissance Electrique.md",
     "Formules/Lois des noeuds.md",
     "Formules/Loi des mailles.md",
@@ -335,9 +338,7 @@
     "Pasted image 20231023142009.png",
     "Formules/Indice de réfraction.md",
     "Formules/Angle I limite.md",
-    "USI.md",
     "README.md",
-    "Unités USI/Unités USI.pdf",
     "Cartes Mentales/Optique.canvas",
     "Images/Pasted image 20230925190952.png",
     "Formules/Loi de Snell-Descartes.md",
@@ -346,11 +347,9 @@
     "Formules/Formule de conjugaison (optique).md",
     "Formules/Longueur d'onde.md",
     "Formules/Réflexion totale.md",
-    "Images/Pasted image 20231023135317.png",
     "Formules/Sans titre.md",
     "Formules/Relation de Descartes (optique).md",
     "Formules/Grandissement.md",
-    "Cartes Mentales/Dimensions.canvas",
     "Unités USI/Annotations.md",
     "Unités USI",
     "Modelisations",
