@@ -1,8 +1,8 @@
 #Oscillateur_Harmonique
 
-```
-Circuit LC
-```
+
+Pour le circuit LC
+
 # Equation différentielle
 
 > On reconnait l'équation d'un oscillateur harmonique quand c'est une équation de ce type : $\boxed{f'' + \omega_{0}^{2}\cdot f= 0}$
