@@ -46,7 +46,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Demonstrations/Oscillateur harmonique.md",
+                    "file": "Formules/Lois des noeuds.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md",
+                "file": "Formules/Lois des noeuds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md",
+                "file": "Formules/Lois des noeuds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demonstrations/Oscillateur harmonique.md"
+                "file": "Formules/Lois des noeuds.md"
               }
             }
           },
@@ -314,11 +314,11 @@
   },
   "active": "f8631d3f474b3e83",
   "lastOpenFiles": [
+    "Demonstrations/Oscillateur harmonique.md",
     "Formules/Loi des mailles.md",
     "USI.md",
     "Unités USI/Unités USI.pdf",
     "Cartes Mentales/Dimensions.canvas",
-    "Demonstrations/Oscillateur harmonique.md",
     "Pasted image 20231025234252.png",
     "Demonstrations/Cone d'acceptance.md",
     "Formules/Puissance Electrique.md",
