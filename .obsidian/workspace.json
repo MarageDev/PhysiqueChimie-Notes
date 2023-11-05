@@ -46,7 +46,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Formules/Loi des mailles.md",
+                    "file": "Demonstrations/Oscillateur harmonique.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules/Loi des mailles.md",
+                "file": "Demonstrations/Oscillateur harmonique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules/Loi des mailles.md",
+                "file": "Demonstrations/Oscillateur harmonique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules/Loi des mailles.md"
+                "file": "Demonstrations/Oscillateur harmonique.md"
               }
             }
           },
@@ -314,6 +314,7 @@
   },
   "active": "f8631d3f474b3e83",
   "lastOpenFiles": [
+    "Formules/Loi des mailles.md",
     "USI.md",
     "Unités USI/Unités USI.pdf",
     "Cartes Mentales/Dimensions.canvas",
@@ -322,7 +323,6 @@
     "Demonstrations/Cone d'acceptance.md",
     "Formules/Puissance Electrique.md",
     "Formules/Lois des noeuds.md",
-    "Formules/Loi des mailles.md",
     "Pasted image 20231024181844.png",
     "Formules/Energie d'un photon.md",
     "Formules/Dispersion intermodale.md",
