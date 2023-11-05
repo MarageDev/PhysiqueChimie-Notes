@@ -1,10 +1,15 @@
 #Oscillateur_Harmonique
+
+```
+Circuit LC
+```
 # Equation différentielle
 
 > On reconnait l'équation d'un oscillateur harmonique quand c'est une équation de ce type : $\boxed{f'' + \omega_{0}^{2}\cdot f= 0}$
 
 ## $$\boxed{U_{C}+L \cdot C \cdot \frac{d{^2}U_{C}}{dt{^2}} = 0 } $$
-On passe à la forme canonique de l'expression en multipliant par $\frac{1}{L\;\cdot \;C}$ ce qui donne $\frac{d{^{2}}U_{C}}{dt{^{2}}}+\frac{1}{L\;\cdot\;C}\cdot U_{C}*$
+On passe à la forme canonique de l'expression en multipliant par $\frac{1}{L\;\cdot \;C}$ ce qui donne $$\frac{d{^{2}}U_{C}}{dt{^{2}}}+\frac{1}{L\;\cdot\;C}\cdot U_{C}=0$$
+
 Forme canonique de l'équation différentielle :
 ## $$\boxed{\frac{d^{2}U_{C}}{dt^{2}} + \omega_{0}{^{2}}\cdot U_{C}= 0 }$$
 avec 
