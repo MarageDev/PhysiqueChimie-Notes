@@ -52,11 +52,32 @@
                   "state": {
                     "file": "Formules/Lois des noeuds.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "Lois des noeuds"
+                }
+              },
+              {
+                "id": "4040fce6b2e45b22",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.8.9"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.8.9"
                 }
               },
               {
@@ -75,7 +96,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "e19865ddea54f326",
@@ -165,8 +186,17 @@
                   "state": {
                     "file": "Demonstrations/Oscillateur harmonique.md",
                     "mode": "preview",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "Oscillateur harmonique"
@@ -210,7 +240,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -352,7 +383,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f8631d3f474b3e83",
+  "active": "4040fce6b2e45b22",
   "lastOpenFiles": [
     "Demonstrations/Oscillateur harmonique.md",
     "Formules/Loi des mailles.md",
