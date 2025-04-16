@@ -4,224 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b218cb70fee31f",
-        "type": "split",
+        "id": "4c3cfcb04d0a61cd",
+        "type": "tabs",
         "children": [
           {
-            "id": "24278c6bf9e2461a",
-            "type": "tabs",
-            "dimension": 59.80769230769231,
-            "children": [
-              {
-                "id": "d42df840aabceb50",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Cartes Mentales/Optique.canvas",
-                    "viewState": {
-                      "x": 698.0676792358466,
-                      "y": 32.85783106588946,
-                      "zoom": -0.9628975723675355
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Optique"
-                }
-              },
-              {
-                "id": "13d2a0e343804c34",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Docs.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Docs"
-                }
-              },
-              {
-                "id": "f8631d3f474b3e83",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Lois des noeuds.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lois des noeuds"
-                }
-              },
-              {
-                "id": "4040fce6b2e45b22",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.8.9"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.8.9"
-                }
-              },
-              {
-                "id": "158464a5bf22dff0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Demonstrations/Cone d'acceptance.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Cone d'acceptance"
-                }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "e19865ddea54f326",
-            "type": "tabs",
-            "dimension": 40.19230769230769,
-            "children": [
-              {
-                "id": "eed7852901f9ea39",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Docs.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Docs"
-                }
-              },
-              {
-                "id": "d0533a8c88db588c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "USI.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "USI"
-                }
-              },
-              {
-                "id": "a042338952abad14",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Puissance Electrique.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Puissance Electrique"
-                }
-              },
-              {
-                "id": "fb36aa3a263273f3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Lois des noeuds.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lois des noeuds"
-                }
-              },
-              {
-                "id": "85c8f31db88d3da9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Formules/Loi des mailles.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Loi des mailles"
-                }
-              },
-              {
-                "id": "4a5b5695ada5b76a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Demonstrations/Oscillateur harmonique.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Oscillateur harmonique"
-                }
-              },
-              {
-                "id": "ad146dac1763a9a3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Demonstrations/Cone d'acceptance.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Cone d'acceptance"
-                }
-              }
-            ],
-            "currentTab": 5
+            "id": "f29741e39ab285e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -383,52 +179,52 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4040fce6b2e45b22",
+  "active": "f29741e39ab285e5",
   "lastOpenFiles": [
+    "Demonstrations/Cone d'acceptance.md",
     "Demonstrations/Oscillateur harmonique.md",
     "Formules/Loi des mailles.md",
+    "Formules/Lois des noeuds.md",
+    "Formules/Puissance Electrique.md",
     "USI.md",
+    "Docs.md",
+    "Formules/Angle I limite.md",
+    "Formules/Dispersion intermodale.md",
+    "Formules/Energie d'un photon.md",
+    "Formules/Formule de conjugaison (optique).md",
+    "Formules/Grandissement.md",
+    "Formules/Indice de réfraction.md",
+    "Formules/Intensité électrique.md",
+    "Formules/Longueur d'onde.md",
+    "Formules/Réflexion totale.md",
+    "Formules/Relation de Descartes (optique).md",
+    "Formules/Sans titre.md",
+    "Formules/Vergence d'une lentille.md",
+    "Pasted image 20231023143242.png",
+    "Pasted image 20231023142009.png",
     "Unités USI/Unités USI.pdf",
+    "Modelisations/Modélisation Lentille Divergent ( LD ).md",
+    "Modelisations/Modélisation Lentille Convergent ( LC ).md",
+    "Cartes Mentales/Optique.canvas",
     "Cartes Mentales/Dimensions.canvas",
     "Pasted image 20231025234252.png",
-    "Demonstrations/Cone d'acceptance.md",
-    "Formules/Puissance Electrique.md",
-    "Formules/Lois des noeuds.md",
     "Pasted image 20231024181844.png",
-    "Formules/Energie d'un photon.md",
-    "Formules/Dispersion intermodale.md",
     "Pasted image 20231024164642.png",
     "Pasted image 20231024164402.png",
     "Sans titre.md",
     "Sans titre",
     "Pasted image 20231023143903.png",
     "Pasted image 20231023143633.png",
-    "Pasted image 20231023143242.png",
-    "Docs.md",
-    "Formules/Intensité électrique.md",
-    "Pasted image 20231023142009.png",
-    "Formules/Indice de réfraction.md",
-    "Formules/Angle I limite.md",
     "README.md",
-    "Cartes Mentales/Optique.canvas",
     "Images/Pasted image 20230925190952.png",
     "Formules/Loi de Snell-Descartes.md",
     "Images/Pasted image 20231023135937.png",
-    "Formules/Vergence d'une lentille.md",
-    "Formules/Formule de conjugaison (optique).md",
-    "Formules/Longueur d'onde.md",
-    "Formules/Réflexion totale.md",
-    "Formules/Sans titre.md",
-    "Formules/Relation de Descartes (optique).md",
-    "Formules/Grandissement.md",
     "Unités USI/Annotations.md",
     "Unités USI",
     "Modelisations",
     "Demonstrations",
     "Cartes Mentales",
     "Images",
-    "Modelisations/Modélisation Lentille Divergent ( LD ).md",
-    "Modelisations/Modélisation Lentille Convergent ( LC ).md",
     "Formules"
   ]
 }
